@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#图形/opengl",
+      "color": {
+        "a": 1,
+        "rgb": 1942915
+      }
+    },
+    {
+      "query": "tag:#语言/标记语言",
+      "color": {
+        "a": 1,
+        "rgb": 16701062
+      }
+    },
+    {
+      "query": "tag:#语言/cpp",
+      "color": {
+        "a": 1,
+        "rgb": 14001988
+      }
+    },
+    {
+      "query": "tag:#图形/Shader",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#计算机软件",
+      "color": {
+        "a": 1,
+        "rgb": 6060528
+      }
+    },
+    {
+      "query": "tag:#语言",
+      "color": {
+        "a": 1,
+        "rgb": 10053888
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.252604166666667,
+  "repelStrength": 7.65625,
+  "linkStrength": 1,
+  "linkDistance": 176,
+  "scale": 0.7132754626225197,
+  "close": false
+}

@@ -1,0 +1,16 @@
+#图形/Shader
+***
+在绘制图形的过程中，改变形状/颜色；
+[[Shading Language]]
+
+***
+### shader类型
+[[顶点着色器 Vertex Shader（计算顶点位置）]]
+[[几何着色器 Geometry Shader（创建新顶点）]]
+[[片元着色器 Fragment Shader（计算像素颜色）]]
+
+90%的着色器编程处理的是 顶点着色器 或者 像素着色器；
+-   Vertex Shader：**对每个顶点调用一次**
+-   Fragment Shader：对需要填充的三角形中的**每个像素都调用一次**
+***
+

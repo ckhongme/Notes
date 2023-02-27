@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "998d029fefefda2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "46804eaa0b490a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448c5f36528f445f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2655d74cedeabdee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中国近代史/1949.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dc7acb05851fcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中国近代史/1948.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30b7ab96ba5662d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc181623c056a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e92afaed9f0574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a122942f7145d893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77a8b5b4ca254515",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de84fbb8aaa9d34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ba61fee0122a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6857aed5315dac63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6684d8d01dbdf3e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e50884f3bae436de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c455b553770248d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "94f89c313ff7f15a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213eea06b2d4ce7d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "448c5f36528f445f",
+  "lastOpenFiles": [
+    "中国近代史/1997.md",
+    "中国近代史/1948.md",
+    "中国近代史/1945.md",
+    "辽沈战役.md",
+    "中国近代史/中国近代史.canvas",
+    "Template/下划线.md",
+    "Template",
+    "中国近代史/1949.md",
+    "中国近代史/1999.md",
+    "中国近代史/1864-1894.md",
+    "中国近代史/1895-1901.md",
+    "中国近代史/1901-1912.md",
+    "中国近代史/1927-1937.md",
+    "中国近代史/1931-1945.md",
+    "中国近代史/1945-1949.md",
+    "中国近代史/1950~1953.md",
+    "中国近代史/1912-1928.md",
+    "2023-02-26.md",
+    "未命名.canvas",
+    "中国/1945.md",
+    "中国/1949.md",
+    "中国/1901-1912 旧民主主义革命的高潮.md",
+    "中国近代史"
+  ]
+}
