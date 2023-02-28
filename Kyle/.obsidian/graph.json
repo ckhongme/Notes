@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -60,7 +60,7 @@
       "query": "tag:#计算机硬件",
       "color": {
         "a": 1,
-        "rgb": 7031283
+        "rgb": 9665774
       }
     }
   ],
@@ -74,6 +74,6 @@
   "repelStrength": 7.65625,
   "linkStrength": 1,
   "linkDistance": 176,
-  "scale": 0.7132754626225349,
-  "close": true
+  "scale": 0.362887369301261,
+  "close": false
 }

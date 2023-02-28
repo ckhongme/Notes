@@ -6,14 +6,35 @@
       {
         "id": "5632eb8511fe4b74",
         "type": "tabs",
+        "dimension": 46.14243323442137,
         "children": [
           {
-            "id": "878b796ccf761ed8",
+            "id": "de9265a788e67389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/基础/数学/坐标系.md",
+                "file": "CS/语言/C家族/函数模板.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ff8fe552d5ec590",
+        "type": "tabs",
+        "dimension": 53.85756676557863,
+        "children": [
+          {
+            "id": "2d95167540d93f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/语言/C家族/类模板.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "图片",
+                "query": "dynamic_cast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/基础/数学/坐标系.md"
+                "file": "CS/语言/C家族/类模板.md"
               }
             }
           },
@@ -116,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/基础/数学/坐标系.md",
+                "file": "CS/语言/C家族/类模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/基础/数学/坐标系.md",
+                "file": "CS/语言/C家族/类模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/基础/数学/坐标系.md",
+                "file": "CS/语言/C家族/类模板.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +196,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224475,
+                  "scale": 1.0000000000000087,
                   "close": true
                 }
               }
@@ -185,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,46 +219,47 @@
       "canvas:新建白板": false
     }
   },
-  "active": "878b796ccf761ed8",
+  "active": "81889762c9acc644",
   "lastOpenFiles": [
-    "CS/基础/数学/右手坐标系.md",
-    "CS/基础/数学/坐标系.md",
-    "CS/基础/数学/左手坐标系.md",
-    "Work/开发/Unreal 虚幻.md",
-    "Work/开发/Unity/Unity.md",
-    "CS/基础/数学/向量.md",
-    "CS/图形/OpenGL/OpenGL.md",
-    "Work/开发/OSG.md",
-    "CS/语言/C家族/C++ 函数（分文件编写，引用传递，占位参数）.md",
+    "CS/语言/C家族/函数模板.md",
+    "CS/语言/C家族/类模板.md",
+    "CS/语言/C家族/模板 Template.md",
     "CS/语言/C家族/C++.md",
+    "CS/语言/C家族/C.md",
+    "CS/语言/C家族/C++ 模板.md",
+    "CS/基础/软件/CMake（生成对应IDE的工程文件）.md",
+    "CS/基础/软件/编译程序.md",
+    "CS/基础/软件/计算机软件层级.md",
+    "CS/基础/软件/编译和链接（源码→二进制文件）.md",
+    "CS/基础/软件/操作系统OS/操作系统OS（管理程序的程序）.md",
+    "CS/基础/软件/操作系统OS/操作系统的内核（内存 线程 IO）.md",
+    "Work/Consys/Effect.canvas",
+    "CS/基础/软件/操作系统OS/输入输出 IO.md",
+    "CS/基础/软件/操作系统OS/进程&线程管理（多任务，更高效利用内存）.md",
+    "CS/基础/软件/操作系统OS/计算机内存.md",
+    "Work/Consys/C++ 运算符（重载）.md",
+    "CS/语言/C家族/C++ 面向对象（多继承 虚继承）.md",
+    "CS/语言/C家族/C++ 指针.md",
+    "Work/Consys/FxEffect.canvas",
     "CS/语言/C家族/C++ 函数（分文件编写，引用传递，占位参数.md",
-    "CS/图形/Shader/着色器 Shader.md",
+    "Work/Consys/Uav.canvas",
+    "CS/图形/OpenGL/OpenGL库.md",
+    "CS/基础/数学/坐标系.md",
+    "CS/基础/数学/右手坐标系.md",
+    "CS/语言/低级语言（面向机器）.md",
+    "CS/语言/C家族/C++ 数据结构.md",
+    "CS/语言/高级语言基础/高级语言.md",
+    "CS/语言/面向对象/封装.md",
     "插图/叉乘判断内外.png",
     "插图/叉乘判断内外.png",
     "插图/叉乘判断左右.png",
-    "CS/基础/软件/操作系统OS/计算机内存.md",
     "插图/左右手坐标系.png",
-    "CS/基础/软件/操作系统OS/操作系统的内核（内存 线程 IO）.md",
-    "CS/基础/软件/操作系统OS/代码区（只读区） & 全局区（可读写区）.md",
-    "CS/基础/软件/操作系统OS/操作系统OS（管理程序的程序）.md",
     "插图",
     "CS/基础/数学",
-    "Work/Consys/FxEffect.canvas",
-    "CS/语言/高级语言基础/解析型语言.md",
-    "CS/基础/硬件/处理器CPU（不断执行指令）.md",
-    "CS/基础/硬件/计算机硬件层级.md",
-    "CS/基础/硬件/显卡GPU.md",
-    "CS/基础/硬件/存储器（存储程序和数据）.md",
-    "CS/语言/高级语言基础/队列queue.md",
-    "CS/语言/高级语言基础/高级语言.md",
-    "CS/语言/高级语言基础/栈stack.md",
-    "CS/语言/高级语言基础/语法基础（规定指令的格式）.md",
-    "CS/语言/高级语言基础/数组Array（连续内存）.md",
     "插图/内存分区.png",
     "CS/图形/图像接口.canvas",
     "CS/图形/图形接口版本.canvas",
     "HLSL",
-    "Work/Consys/Uav.canvas",
     "Work/开发/Git",
     "CS/图形/Shader",
     "Work/开发/Unity",
@@ -246,7 +268,6 @@
     "CS/语言/数据交换格式",
     "CS/语言/标记语言",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }
