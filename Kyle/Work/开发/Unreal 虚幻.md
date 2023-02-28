@@ -1,4 +1,1 @@
-#Unity
-
-[[ScriptableObject]]
 [[左手坐标系#默认左手坐标系的游戏引擎]]

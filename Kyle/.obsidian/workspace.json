@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "913520a19f3d6578",
+            "id": "878b796ccf761ed8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/基础/数学/坐标系.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "图片",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/基础/数学/坐标系.md"
+              }
             }
           },
           {
@@ -94,19 +101,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "9995d96ce56c9cfc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "21b0213b235bd5a4",
@@ -119,12 +116,25 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/基础/数学/坐标系.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9995d96ce56c9cfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS/基础/数学/坐标系.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -142,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CS/基础/数学/坐标系.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +198,32 @@
       "canvas:新建白板": false
     }
   },
-  "active": "913520a19f3d6578",
+  "active": "878b796ccf761ed8",
   "lastOpenFiles": [
-    "CS/语言/高级语言基础/解析型语言.md",
+    "CS/基础/数学/右手坐标系.md",
+    "CS/基础/数学/坐标系.md",
+    "CS/基础/数学/左手坐标系.md",
+    "Work/开发/Unreal 虚幻.md",
+    "Work/开发/Unity/Unity.md",
+    "CS/基础/数学/向量.md",
+    "CS/图形/OpenGL/OpenGL.md",
+    "Work/开发/OSG.md",
+    "CS/语言/C家族/C++ 函数（分文件编写，引用传递，占位参数）.md",
+    "CS/语言/C家族/C++.md",
+    "CS/语言/C家族/C++ 函数（分文件编写，引用传递，占位参数.md",
+    "CS/图形/Shader/着色器 Shader.md",
+    "插图/叉乘判断内外.png",
+    "插图/叉乘判断内外.png",
+    "插图/叉乘判断左右.png",
     "CS/基础/软件/操作系统OS/计算机内存.md",
+    "插图/左右手坐标系.png",
+    "CS/基础/软件/操作系统OS/操作系统的内核（内存 线程 IO）.md",
+    "CS/基础/软件/操作系统OS/代码区（只读区） & 全局区（可读写区）.md",
+    "CS/基础/软件/操作系统OS/操作系统OS（管理程序的程序）.md",
+    "插图",
+    "CS/基础/数学",
+    "Work/Consys/FxEffect.canvas",
+    "CS/语言/高级语言基础/解析型语言.md",
     "CS/基础/硬件/处理器CPU（不断执行指令）.md",
     "CS/基础/硬件/计算机硬件层级.md",
     "CS/基础/硬件/显卡GPU.md",
@@ -200,27 +233,11 @@
     "CS/语言/高级语言基础/栈stack.md",
     "CS/语言/高级语言基础/语法基础（规定指令的格式）.md",
     "CS/语言/高级语言基础/数组Array（连续内存）.md",
-    "CS/语言/高级语言基础/数据类型.md",
-    "CS/语言/高级语言基础/数据结构.md",
-    "CS/语言/高级语言基础/链表LInked List（非连续内存）.md",
-    "CS/语言/高级语言基础/编译型语言.md",
-    "CS/基础/软件/操作系统OS/堆栈 Stack & Heap.md",
-    "CS/语言/C家族/C++ 指针.md",
-    "CS/语言/高级语言基础/list容器（C++链表）.md",
-    "C++ 数据结构.md",
-    "C++ 类与对象.md",
-    "C++ 函数（分文件编写，引用传递，占位参数.md",
-    "CS/语言/高级语言基础/编译与解析（翻译方式）.md",
-    "CS/基础/软件/编译和链接（源码→二进制文件）.md",
-    "CS/语言/高级语言基础/栈stack & 队列queue.md",
-    "Template/code.md",
-    "图形渲染.md",
-    "CS/基础/软件/操作系统OS/图片/内存分区.png",
+    "插图/内存分区.png",
     "CS/图形/图像接口.canvas",
     "CS/图形/图形接口版本.canvas",
     "HLSL",
     "Work/Consys/Uav.canvas",
-    "Work/Consys/FxEffect.canvas",
     "Work/开发/Git",
     "CS/图形/Shader",
     "Work/开发/Unity",
@@ -230,7 +247,6 @@
     "CS/语言/标记语言",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "Template"
+    "未命名.canvas"
   ]
 }
