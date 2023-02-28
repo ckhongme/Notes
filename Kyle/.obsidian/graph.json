@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 10053888
       }
+    },
+    {
+      "query": "tag:#渲染",
+      "color": {
+        "a": 1,
+        "rgb": 322738
+      }
+    },
+    {
+      "query": "tag:#计算机硬件",
+      "color": {
+        "a": 1,
+        "rgb": 7031283
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 7.65625,
   "linkStrength": 1,
   "linkDistance": 176,
-  "scale": 0.7132754626225197,
+  "scale": 0.18462326225860368,
   "close": false
 }

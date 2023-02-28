@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f95d382c5e09589b",
+        "id": "5632eb8511fe4b74",
         "type": "tabs",
         "children": [
           {
-            "id": "f58b4af21a5e3802",
+            "id": "913520a19f3d6578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/基础/硬件/存储器（存储程序和数据）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 273.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/基础/硬件/存储器（存储程序和数据）.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/基础/硬件/存储器（存储程序和数据）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/基础/硬件/存储器（存储程序和数据）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +142,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/基础/硬件/存储器（存储程序和数据）.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +164,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000047,
+                  "scale": 0.7132754626224475,
                   "close": true
                 }
               }
@@ -184,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 687.5
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,35 +187,35 @@
       "canvas:新建白板": false
     }
   },
-  "active": "f58b4af21a5e3802",
+  "active": "913520a19f3d6578",
   "lastOpenFiles": [
-    "CS/基础/硬件/计算机硬件层级.md",
-    "CS/基础/硬件/存储器（存储程序和数据）.md",
+    "CS/语言/高级语言基础/解析型语言.md",
+    "CS/基础/软件/操作系统OS/计算机内存.md",
     "CS/基础/硬件/处理器CPU（不断执行指令）.md",
-    "CS/基础/软件/操作系统OS/多线程.md",
-    "CS/图形/Shader/着色器 Shader.md",
-    "CS/基础/软件/操作系统OS/图片/内存分区.png",
-    "CS/语言/面向对象/面向对象 object oriented.md",
-    "CS/语言/数据交换格式/数据交换格式.md",
-    "Template/Toggle.md",
-    "Template/下划线.md",
-    "CS/图形/OpenGL/GLM（数学运算）.md",
-    "CS/图形/OpenGL/GLFW（提供窗口和上下文）.md",
-    "CS/图形/OpenGL/GLEW（输入输出）.md",
-    "CS/图形/OpenGL/GLAD（查找函数）.md",
+    "CS/基础/硬件/计算机硬件层级.md",
+    "CS/基础/硬件/显卡GPU.md",
+    "CS/基础/硬件/存储器（存储程序和数据）.md",
+    "CS/语言/高级语言基础/队列queue.md",
     "CS/语言/高级语言基础/高级语言.md",
-    "CS/语言/高级语言基础/编程思想.md",
+    "CS/语言/高级语言基础/栈stack.md",
     "CS/语言/高级语言基础/语法基础（规定指令的格式）.md",
+    "CS/语言/高级语言基础/数组Array（连续内存）.md",
+    "CS/语言/高级语言基础/数据类型.md",
+    "CS/语言/高级语言基础/数据结构.md",
+    "CS/语言/高级语言基础/链表LInked List（非连续内存）.md",
+    "CS/语言/高级语言基础/编译型语言.md",
+    "CS/基础/软件/操作系统OS/堆栈 Stack & Heap.md",
+    "CS/语言/C家族/C++ 指针.md",
+    "CS/语言/高级语言基础/list容器（C++链表）.md",
+    "C++ 数据结构.md",
+    "C++ 类与对象.md",
+    "C++ 函数（分文件编写，引用传递，占位参数.md",
     "CS/语言/高级语言基础/编译与解析（翻译方式）.md",
-    "CS/基础/软件/GCC（Unix-like系统的编译器）.md",
-    "CS/基础/软件/MinGW（GCC在win的移植版）.md",
-    "CS/基础/软件/CMake（生成对应IDE的工程文件）.md",
-    "CS/基础/软件/链接 Link（目标文件-可执行文件）.md",
-    "CS/基础/软件/计算机软件层级.md",
     "CS/基础/软件/编译和链接（源码→二进制文件）.md",
-    "CS/基础/软件/编译程序.md",
-    "CS/基础/软件/编译 Compile（源码-目标文件）.md",
-    "CS/图形/图形.md",
+    "CS/语言/高级语言基础/栈stack & 队列queue.md",
+    "Template/code.md",
+    "图形渲染.md",
+    "CS/基础/软件/操作系统OS/图片/内存分区.png",
     "CS/图形/图像接口.canvas",
     "CS/图形/图形接口版本.canvas",
     "HLSL",
