@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"场景对象属性类\n用于描述场景对象的属性信息","id":"57dbb8818953fc3b","x":-860,"y":-340,"width":240,"height":60},
+		{"type":"text","text":"","id":"2395be13ddd39b96","x":-460,"y":-340,"width":250,"height":60},
+		{"id":"962466ce6c6c9af9","x":-380,"y":-440,"width":250,"height":60,"type":"text","text":"IFxSceneObjectService"},
+		{"id":"b35fe38bbb0e9040","x":-680,"y":-887,"width":265,"height":215,"type":"file","file":"Work/Consys/FxStudio/SceneObject.h.md"},
+		{"id":"9a671e3b375d4690","x":-345,"y":-837,"width":125,"height":60,"type":"text","text":"EntityObject"},
+		{"id":"7f7d69a67777743d","x":-130,"y":-747,"width":160,"height":60,"type":"text","text":"CFxModelObject\n模型对象"},
+		{"id":"8fab64bc97bf3b04","x":-130,"y":-927,"width":100,"height":50,"type":"text","text":"点对象"},
+		{"id":"35ae54f73fb7833a","x":-130,"y":-834,"width":110,"height":55,"type":"text","text":"图片对象"}
+	],
+	"edges":[
+		{"id":"7d6765a54c882395","fromNode":"57dbb8818953fc3b","fromSide":"right","toNode":"2395be13ddd39b96","toSide":"left","label":"给属性赋值"},
+		{"id":"78b0ad81b9aed786","fromNode":"9a671e3b375d4690","fromSide":"right","toNode":"8fab64bc97bf3b04","toSide":"left"},
+		{"id":"cb0a1374cf100318","fromNode":"9a671e3b375d4690","fromSide":"right","toNode":"35ae54f73fb7833a","toSide":"left"},
+		{"id":"fc66f291ec05e90e","fromNode":"9a671e3b375d4690","fromSide":"right","toNode":"7f7d69a67777743d","toSide":"left"}
+	]
+}

@@ -11,12 +11,14 @@
             "id": "a29cf0c7bbf79bea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CS/语言/C家族/C++.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Work/Consys/FxStudio/Object系统.canvas",
+                "viewState": {
+                  "x": -273.2088285876731,
+                  "y": -632.8789560765941,
+                  "zoom": 1.1102230246251565e-16
+                }
               }
             }
           }
@@ -66,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/语言/C家族/C++.md"
+                "file": "Work/Consys/FxStudio/SceneObject.h.md"
               }
             }
           },
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/语言/C家族/C++.md",
+                "file": "Work/Consys/FxStudio/SceneObject.h.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/语言/C家族/C++.md",
+                "file": "Work/Consys/FxStudio/SceneObject.h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +153,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/语言/C家族/C++.md",
+                "file": "Work/Consys/FxStudio/SceneObject.h.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -165,17 +166,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792653,
+                  "linkDistance": 150,
+                  "scale": 1.0000000000000135,
                   "close": true
                 }
               }
@@ -185,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +201,17 @@
   },
   "active": "a29cf0c7bbf79bea",
   "lastOpenFiles": [
-    "CS/语言/C家族/C++ 内存管理.md",
+    "Work/Consys/FxStudio/SceneObject.h.md",
+    "Work/Consys/FxStudio",
+    "Work/开发/OSG/OSG.md",
+    "Work/开发/OSG/智能指针 Smart pointer.md",
+    "Work/开发/OSG/CTK插件框架.md",
+    "Work/开发/Unity/ScriptableObject.md",
+    "Work/开发/开发引擎.md",
+    "Work/开发/OSG",
+    "Work/Consys/FxStudio/Object系统.canvas",
     "CS/语言/C家族/C++.md",
+    "CS/语言/C家族/C++ 内存管理.md",
     "CS/语言/C家族/STL容器.md",
     "CS/语言/C家族/迭代器.md",
     "CS/语言/C家族/C++ 面向对象（多继承 虚继承）.md",
@@ -220,18 +230,11 @@
     "CS/语言/高级语言基础/数据类型.md",
     "CS/语言/C家族/C++标识符和数据类型.md",
     "CS/语言/C家族/C++流程结构.md",
-    "图形渲染.md",
-    "CS/基础/软件/操作系统OS/序列化.md",
-    "CS/语言/高级语言基础/标识符.md",
-    "CS/语言/C家族/C++ 数据结构.md",
-    "CS/基础/软件/字符编码.md",
-    "Template/table.md",
     "插图/UTF-8.png",
     "插图/Unicode.png",
     "插图/Unicode和UTF-8.png",
     "插图/ASCII编码表.png",
     "CS/语言/开发者平台",
-    "Work/Consys/Effect.canvas",
     "Work/Consys/FxEffect.canvas",
     "Work/Consys/Uav.canvas",
     "插图/叉乘判断内外.png",
@@ -248,8 +251,6 @@
     "CS/图形/Shader",
     "Work/开发/Unity",
     "CS/语言/面向对象",
-    "CS/语言/高级语言基础",
-    "CS/语言/数据交换格式",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]

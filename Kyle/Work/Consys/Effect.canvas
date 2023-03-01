@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"场景对象属性类\n用于描述场景对象的属性信息","id":"57dbb8818953fc3b","x":-380,"y":-290,"width":240,"height":60},
-		{"type":"text","text":"","id":"2395be13ddd39b96","x":60,"y":-290,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"7d6765a54c882395","fromNode":"57dbb8818953fc3b","fromSide":"right","toNode":"2395be13ddd39b96","toSide":"left","label":"给属性赋值"}
-	]
-}
