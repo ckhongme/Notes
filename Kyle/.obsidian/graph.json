@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "C++",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -70,10 +70,10 @@
   "nodeSizeMultiplier": 1.19739583333333,
   "lineSizeMultiplier": 0.993229166666667,
   "collapse-forces": true,
-  "centerStrength": 0.252604166666667,
+  "centerStrength": 0.403645833333333,
   "repelStrength": 7.65625,
   "linkStrength": 1,
   "linkDistance": 176,
-  "scale": 0.362887369301261,
+  "scale": 1.0000000000001392,
   "close": false
 }
