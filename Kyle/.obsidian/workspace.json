@@ -4,21 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "452c77f578eabcd0",
+        "id": "6ab777035419316b",
         "type": "tabs",
         "children": [
           {
-            "id": "a29cf0c7bbf79bea",
+            "id": "f5fcee22faa854a7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Work/Consys/FxStudio/Object系统.canvas",
                 "viewState": {
-                  "x": -273.2088285876731,
-                  "y": -632.8789560765941,
-                  "zoom": 1.1102230246251565e-16
+                  "x": -268.09592281039943,
+                  "y": -868.0421684376091,
+                  "zoom": -0.3333333333333334
                 }
+              }
+            }
+          },
+          {
+            "id": "062e4045b565e3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/语言/C家族/C++标识符和数据类型.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -51,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "虚函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -81,7 +95,7 @@
       {
         "id": "83daf39d3e5de7ac",
         "type": "tabs",
-        "dimension": 28.365384615384613,
+        "dimension": 36.92307692307693,
         "children": [
           {
             "id": "4031477c021be497",
@@ -89,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Consys/FxStudio/SceneObject.h.md"
+                "file": "Work/Consys/FxStudio/Object系统.canvas"
               }
             }
           },
@@ -109,7 +123,7 @@
       {
         "id": "21b0213b235bd5a4",
         "type": "tabs",
-        "dimension": 23.942307692307693,
+        "dimension": 27.884615384615387,
         "children": [
           {
             "id": "b1ac85949f8f5163",
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Consys/FxStudio/SceneObject.h.md",
+                "file": "Work/Consys/FxStudio/Object系统.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Consys/FxStudio/SceneObject.h.md",
+                "file": "Work/Consys/FxStudio/Object系统.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
       {
         "id": "dfb2537d0def539d",
         "type": "tabs",
-        "dimension": 47.69230769230769,
+        "dimension": 35.19230769230769,
         "children": [
           {
             "id": "81889762c9acc644",
@@ -153,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/Consys/FxStudio/SceneObject.h.md",
+                "file": "Work/Consys/FxStudio/Object系统.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +190,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 150,
-                  "scale": 1.0000000000000135,
+                  "scale": 0.7132754626224523,
                   "close": true
                 }
               }
@@ -199,43 +213,43 @@
       "canvas:新建白板": false
     }
   },
-  "active": "a29cf0c7bbf79bea",
+  "active": "f5fcee22faa854a7",
   "lastOpenFiles": [
-    "Work/Consys/FxStudio/SceneObject.h.md",
-    "Work/Consys/FxStudio",
-    "Work/开发/OSG/OSG.md",
-    "Work/开发/OSG/智能指针 Smart pointer.md",
-    "Work/开发/OSG/CTK插件框架.md",
-    "Work/开发/Unity/ScriptableObject.md",
-    "Work/开发/开发引擎.md",
-    "Work/开发/OSG",
-    "Work/Consys/FxStudio/Object系统.canvas",
-    "CS/语言/C家族/C++.md",
-    "CS/语言/C家族/C++ 内存管理.md",
-    "CS/语言/C家族/STL容器.md",
-    "CS/语言/C家族/迭代器.md",
-    "CS/语言/C家族/C++ 面向对象（多继承 虚继承）.md",
-    "CS/语言/C家族/C++ 类与对象.md",
-    "CS/语言/C家族/深拷贝&浅拷贝.md",
-    "CS/语言/C家族/C++ 运算符.md",
-    "CS/语言/C家族/类与对象.md",
-    "CS/语言/高级语言基础/函数（方法）.md",
-    "CS/语言/高级语言基础/语法基础（规定指令的格式）.md",
-    "CS/语言/高级语言基础/运算符.md",
-    "CS/语言/高级语言基础/高级语言.md",
-    "CS/语言/C家族/C++ 函数.md",
-    "CS/语言/C家族/C++ 指针.md",
-    "CS/语言/C家族/指针和引用.md",
-    "CS/语言/标记语言/Markdown.md",
-    "CS/语言/高级语言基础/数据类型.md",
+    "Work/Consys/FxStudio/CFxEffectBase.md",
+    "Work/Consys/FxStudio/CFxEffectObjectData.md",
+    "Work/Consys/FxStudio/CFxEntityObjectData.md",
+    "Work/Consys/FxStudio/CFxImageObject.md",
     "CS/语言/C家族/C++标识符和数据类型.md",
-    "CS/语言/C家族/C++流程结构.md",
+    "CS/语言/C家族/C++.md",
+    "CS/语言/C家族/C++ 数据结构.md",
+    "CS/语言/高级语言基础/数组Array（连续内存）.md",
+    "CS/语言/高级语言基础/数据结构.md",
+    "CS/语言/C家族/C++ 类与对象.md",
+    "Work/开发/OSG/OSG.md",
+    "Work/Consys/FxStudio/Object系统.canvas",
+    "Work/Consys/FxStudio/CFxSceneObject.md",
+    "Work/Consys/FxStudio/CFxBillBoardObjectEle.md",
+    "Work/Consys/FxStudio/CFxTextObjectEle.md",
+    "Work/Consys/FxStudio/CFxModelObjectEle.md",
+    "Work/开发/OSG/智能指针 ref_prt.md",
+    "Work/Consys/FxStudio/MatrixTransform.md",
+    "Work/Consys/FxStudio/CFxEntityObjectEle.md",
+    "Work/Consys/FxStudio/CFxObjectAttri.md",
+    "Work/Consys/FxStudio/CFxModelObject.md",
+    "Work/Consys/FxStudio/CFxEntityObject.md",
+    "Work/Consys/FxEffect.canvas",
+    "CS/语言/C家族/C++ 指针.md",
+    "CS/语言/C家族/C++智能指针.md",
+    "CS/语言/C家族/指针和引用.md",
+    "CS/语言/C家族/指针和函数.md",
+    "CS/语言/高级语言基础/函数（方法）.md",
+    "Work/Consys/FxStudio",
+    "Work/开发/OSG",
     "插图/UTF-8.png",
     "插图/Unicode.png",
     "插图/Unicode和UTF-8.png",
     "插图/ASCII编码表.png",
     "CS/语言/开发者平台",
-    "Work/Consys/FxEffect.canvas",
     "Work/Consys/Uav.canvas",
     "插图/叉乘判断内外.png",
     "插图/叉乘判断内外.png",

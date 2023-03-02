@@ -1,0 +1,2 @@
+场景对象属性
+SceneObjectAttri.h
