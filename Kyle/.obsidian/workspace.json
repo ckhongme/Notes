@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/图形/图形渲染.md",
+                "file": "CS/语言/高级语言基础/高级语言.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 296.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -79,7 +79,7 @@
       {
         "id": "83daf39d3e5de7ac",
         "type": "tabs",
-        "dimension": 36.92307692307692,
+        "dimension": 30.35542747358309,
         "children": [
           {
             "id": "4031477c021be497",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/图形/图形渲染.md"
+                "file": "CS/语言/高级语言基础/高级语言.md"
               }
             }
           },
@@ -107,7 +107,7 @@
       {
         "id": "21b0213b235bd5a4",
         "type": "tabs",
-        "dimension": 27.88461538461538,
+        "dimension": 33.71757925072046,
         "children": [
           {
             "id": "b1ac85949f8f5163",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/图形/图形渲染.md",
+                "file": "CS/语言/高级语言基础/高级语言.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/图形/图形渲染.md",
+                "file": "CS/语言/高级语言基础/高级语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +141,17 @@
         ]
       },
       {
-        "id": "dfb2537d0def539d",
+        "id": "0a5bb866b369e71e",
         "type": "tabs",
-        "dimension": 35.19230769230769,
+        "dimension": 35.92699327569645,
         "children": [
           {
-            "id": "81889762c9acc644",
+            "id": "7249a68d807f9e38",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/图形/图形渲染.md",
+                "file": "CS/语言/高级语言基础/高级语言.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -173,8 +173,8 @@
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 150,
-                  "scale": 0.7132754626224523,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               }
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +197,22 @@
       "canvas:新建白板": false
     }
   },
-  "active": "5f45b0d912481734",
+  "active": "bb8c27fea8d0a384",
   "lastOpenFiles": [
+    "CS/基础/软件/编译 Compile（源码-目标文件）.md",
+    "CS/基础/软件/操作系统OS/计算机内存.md",
+    "CS/基础/软件/操作系统OS/操作系统的内核（内存 线程 IO）.md",
+    "CS/图形/图形.md",
+    "CS/图形/图形接口 Graphic API.md",
+    "CS/语言/C家族/C++ 指针.md",
+    "CS/基础/软件/操作系统OS/操作系统OS（管理程序的程序）.md",
+    "CS/图形/OpenGL/OpenGL.md",
+    "CS/基础/数学/右手坐标系.md",
+    "CS/基础/软件/MinGW（GCC在win的移植版）.md",
+    "CS/基础/软件/CMake（生成对应IDE的工程文件）.md",
+    "CS/基础/软件/操作系统OS/代码区（只读区） & 全局区（可读写区）.md",
+    "CS/基础/软件/编译程序.md",
+    "CS/图形/图形渲染.md",
     "Work/Consys/Uav.canvas",
     "Work/Consys/FxEffect.canvas",
     "Work/Consys/FxStudio/Object系统.canvas",
@@ -214,19 +228,6 @@
     "CS/语言/C家族/C++.md",
     "CS/语言/C家族/C++ 数据结构.md",
     "CS/语言/高级语言基础/数组Array（连续内存）.md",
-    "CS/语言/高级语言基础/数据结构.md",
-    "CS/语言/C家族/C++ 类与对象.md",
-    "Work/开发/OSG/OSG.md",
-    "Work/Consys/FxStudio/CFxSceneObject.md",
-    "Work/Consys/FxStudio/CFxBillBoardObjectEle.md",
-    "Work/Consys/FxStudio/CFxTextObjectEle.md",
-    "Work/Consys/FxStudio/CFxModelObjectEle.md",
-    "Work/开发/OSG/智能指针 ref_prt.md",
-    "Work/Consys/FxStudio/MatrixTransform.md",
-    "Work/Consys/FxStudio/CFxEntityObjectEle.md",
-    "Work/Consys/FxStudio/CFxObjectAttri.md",
-    "Work/Consys/FxStudio/CFxModelObject.md",
-    "Work/Consys/FxStudio/CFxEntityObject.md",
     "Work/Consys/FxStudio",
     "Work/开发/OSG",
     "插图/UTF-8.png",
