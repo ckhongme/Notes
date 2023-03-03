@@ -1,1 +1,0 @@
-EffectobjectData.h
