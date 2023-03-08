@@ -8,6 +8,11 @@
 应用程序发送命令给OpenGL，然后OpenGL再将命令发送给底层的图形硬件来绘制出预期的图形效果；
 在应用程序和底层的图形系统之间提供一个抽象层；
 
+### 工作机制
+本质上就是[[状态机FSM]]，用一系列的状态变量来描述OpenGL此刻应当如何运行；
+状态变量设置后就会一直生效，直至再次修改；
+
+
 
 [[OpenGL库]]
 ***
@@ -19,7 +24,12 @@
 	因为有Quake这样顶级游戏的支持，OpenGL在90年代成为了无可争议的业界标准；
 	</pre>
 </details>
-
-
+<details><summary>OpenGL的重要发展史</summary>
+	<pre>
+	2004年，推出的OpenGL2.0才开始支持高级Shader编程语言；
+	2017年，Khronos推出了最新版的OpenGL 4.6；
+	2018年，苹果宣布不再支持OpenGL，macOS官方支持的 OpenGL 最新版本只到4.1；
+	</pre>
+</details>
 
 
