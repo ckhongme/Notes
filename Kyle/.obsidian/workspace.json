@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/开发/IDE/JetBrains.md",
+                "file": "CS/图形/渲染管线/渲染管线.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/开发/IDE/JetBrains.md"
+                "file": "CS/图形/渲染管线/渲染管线.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/开发/IDE/JetBrains.md",
+                "file": "CS/图形/渲染管线/渲染管线.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/开发/IDE/JetBrains.md",
+                "file": "CS/图形/渲染管线/渲染管线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work/开发/IDE/JetBrains.md",
+                "file": "CS/图形/渲染管线/渲染管线.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,20 +199,25 @@
       "canvas:新建白板": false
     }
   },
-  "active": "db9309765a5b4448",
+  "active": "5f45b0d912481734",
   "lastOpenFiles": [
+    "CS/图形/图形渲染.md",
+    "CS/图形/渲染管线/渲染管线.md",
+    "CS/图形/渲染管线",
+    "CS/图形/OpenGL/OpenGL.md",
+    "CS/图形/图形接口.canvas",
+    "CS/图形/图形接口.md",
+    "CS/图形/OpenGL/GLAD（查找函数）.md",
+    "CS/图形/OpenGL/OpenGL库.md",
+    "Work/开发/IDE/JetBrains.md",
     "Work/开发/OSG/OSG.md",
     "Work/开发/OSG/节点Node.md",
     "Work/开发/OSG/NodeVisitor.md",
     "CS/基础/数学/坐标系.md",
-    "Work/开发/IDE/JetBrains.md",
     "CS/基础/软件/编译与链接/编译和链接（源码→二进制文件）.md",
-    "CS/图形/OpenGL/OpenGL.md",
-    "CS/图形/图形接口.md",
     "CS/基础/软件/编译与链接/编译程序.md",
     "CS/基础/软件/编译与链接/链接 Link（目标文件-可执行文件）.md",
     "CS/基础/软件/编译与链接/编译 Compile（源码-目标文件）.md",
-    "CS/图形/图像接口.canvas",
     "CS/图形/图形.md",
     "CS/图形/图形接口版本.canvas",
     "CS/基础/软件/编译与链接",
@@ -224,12 +230,7 @@
     "CS/基础/算法/穷举.md",
     "CS/语言/数据结构/树/树tree.md",
     "CS/语言/数据结构/数据结构.md",
-    "CS/语言/数据结构/并查集.md",
-    "CS/语言/数据结构/字典 Dictionary.md",
-    "CS/语言/数据结构/哈希表 Hash Table.md",
-    "CS/语言/数据结构/堆Heap.md",
     "CS/语言/数据结构/树",
-    "CS/语言/数据结构/树/二叉搜索树.md",
     "CS/语言/数据结构",
     "Work/开发/IDE",
     "CS/基础/算法",
@@ -248,7 +249,6 @@
     "插图/叉乘判断左右.png",
     "插图/左右手坐标系.png",
     "插图",
-    "CS/基础/数学",
     "插图/内存分区.png",
     "未命名 2.canvas",
     "未命名 1.canvas"
