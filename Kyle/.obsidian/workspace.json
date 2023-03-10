@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "762218ce3ce40130",
+        "id": "ce853d1b930f5241",
         "type": "tabs",
         "children": [
           {
-            "id": "bb8c27fea8d0a384",
+            "id": "db9309765a5b4448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/语言/高级语言基础/高级语言.md",
+                "file": "Work/开发/IDE/JetBrains.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "虚函数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 350.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/语言/高级语言基础/高级语言.md"
+                "file": "Work/开发/IDE/JetBrains.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/语言/高级语言基础/高级语言.md",
+                "file": "Work/开发/IDE/JetBrains.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/语言/高级语言基础/高级语言.md",
+                "file": "Work/开发/IDE/JetBrains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/语言/高级语言基础/高级语言.md",
+                "file": "Work/开发/IDE/JetBrains.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224423,
+                  "scale": 0.7132754626224438,
                   "close": true
                 }
               }
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,37 +198,44 @@
       "canvas:新建白板": false
     }
   },
-  "active": "bb8c27fea8d0a384",
+  "active": "db9309765a5b4448",
   "lastOpenFiles": [
-    "CS/基础/软件/编译 Compile（源码-目标文件）.md",
-    "CS/基础/软件/操作系统OS/计算机内存.md",
-    "CS/基础/软件/操作系统OS/操作系统的内核（内存 线程 IO）.md",
-    "CS/图形/图形.md",
-    "CS/图形/图形接口 Graphic API.md",
-    "CS/语言/C家族/C++ 指针.md",
-    "CS/基础/软件/操作系统OS/操作系统OS（管理程序的程序）.md",
+    "Work/开发/OSG/OSG.md",
+    "Work/开发/OSG/节点Node.md",
+    "Work/开发/OSG/NodeVisitor.md",
+    "CS/基础/数学/坐标系.md",
+    "Work/开发/IDE/JetBrains.md",
+    "CS/基础/软件/编译与链接/编译和链接（源码→二进制文件）.md",
     "CS/图形/OpenGL/OpenGL.md",
-    "CS/基础/数学/右手坐标系.md",
-    "CS/基础/软件/MinGW（GCC在win的移植版）.md",
-    "CS/基础/软件/CMake（生成对应IDE的工程文件）.md",
-    "CS/基础/软件/操作系统OS/代码区（只读区） & 全局区（可读写区）.md",
-    "CS/基础/软件/编译程序.md",
-    "CS/图形/图形渲染.md",
+    "CS/图形/图形接口.md",
+    "CS/基础/软件/编译与链接/编译程序.md",
+    "CS/基础/软件/编译与链接/链接 Link（目标文件-可执行文件）.md",
+    "CS/基础/软件/编译与链接/编译 Compile（源码-目标文件）.md",
+    "CS/图形/图像接口.canvas",
+    "CS/图形/图形.md",
+    "CS/图形/图形接口版本.canvas",
+    "CS/基础/软件/编译与链接",
+    "CS/图形/Metal.md",
+    "CS/图形/DirectX.md",
+    "CS/图形/Vulkan.md",
+    "CS/图形/WebGL.md",
+    "CS/图形/OpenGL ES.md",
+    "CS/基础/算法/算法.md",
+    "CS/基础/算法/穷举.md",
+    "CS/语言/数据结构/树/树tree.md",
+    "CS/语言/数据结构/数据结构.md",
+    "CS/语言/数据结构/并查集.md",
+    "CS/语言/数据结构/字典 Dictionary.md",
+    "CS/语言/数据结构/哈希表 Hash Table.md",
+    "CS/语言/数据结构/堆Heap.md",
+    "CS/语言/数据结构/树",
+    "CS/语言/数据结构/树/二叉搜索树.md",
+    "CS/语言/数据结构",
+    "Work/开发/IDE",
+    "CS/基础/算法",
     "Work/Consys/Uav.canvas",
     "Work/Consys/FxEffect.canvas",
     "Work/Consys/FxStudio/Object系统.canvas",
-    "Work/Consys/FxStudio/otherEntityObject.md",
-    "Work/Consys/FxStudio/CFx3DEntityObject.md",
-    "Work/Consys/FxStudio/CFx2DEntityObject.md",
-    "Work/Consys/FxStudio/其他ObjectData.md",
-    "CS/语言/C家族/C++标识符和数据类型.md",
-    "Work/Consys/FxStudio/CFxEffectBase.md",
-    "Work/Consys/FxStudio/CFxEffectObjectData.md",
-    "Work/Consys/FxStudio/CFxEntityObjectData.md",
-    "Work/Consys/FxStudio/CFxImageObject.md",
-    "CS/语言/C家族/C++.md",
-    "CS/语言/C家族/C++ 数据结构.md",
-    "CS/语言/高级语言基础/数组Array（连续内存）.md",
     "Work/Consys/FxStudio",
     "Work/开发/OSG",
     "插图/UTF-8.png",
@@ -242,13 +250,6 @@
     "插图",
     "CS/基础/数学",
     "插图/内存分区.png",
-    "CS/图形/图像接口.canvas",
-    "CS/图形/图形接口版本.canvas",
-    "HLSL",
-    "Work/开发/Git",
-    "CS/图形/Shader",
-    "Work/开发/Unity",
-    "CS/语言/面向对象",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
