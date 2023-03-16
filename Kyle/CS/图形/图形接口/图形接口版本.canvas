@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"01375a365f27316a","x":8,"y":-717,"width":250,"height":90,"type":"text","text":"GLSL 150\n使用 texture 替代 texture2D 函数"},
-		{"id":"e0ffc5aac4cf8f92","x":8,"y":-603,"width":250,"height":138,"type":"text","text":"GLSL 330\n新增布局限定符，可以通过 layout(location = n) 声明顶点着色器输入和片元着色器输出的位置；"},
-		{"id":"11921c605f506bad","x":8,"y":-848,"width":250,"height":100,"type":"text","text":"GLSL 130\n输入和输出用in和out声明，替代属性attribute和变化varying"},
-		{"id":"8a34b95395282c20","x":-314,"y":-559,"width":250,"height":50,"type":"text","text":"OpenGL 3.2"},
-		{"id":"2aa6780b01474a39","x":-314,"y":-697,"width":250,"height":50,"type":"text","text":"OpenGL 3.0"}
+		{"type":"text","text":"GLSL 150\n使用 texture 替代 texture2D 函数","id":"01375a365f27316a","x":8,"y":-717,"width":250,"height":70},
+		{"type":"text","text":"OpenGL 3.0","id":"2aa6780b01474a39","x":-314,"y":-707,"width":250,"height":50},
+		{"type":"text","text":"OpenGL 3.2","id":"8a34b95395282c20","x":-314,"y":-576,"width":250,"height":50},
+		{"type":"text","text":"GLSL 130\n输入和输出用in和out声明，替代属性attribute和变化varying","id":"11921c605f506bad","x":8,"y":-840,"width":250,"height":88},
+		{"type":"text","text":"GLSL 330\n新增布局限定符，可以通过 layout(location = n) 声明顶点着色器输入和片元着色器输出的位置；","id":"e0ffc5aac4cf8f92","x":8,"y":-602,"width":250,"height":103}
 	],
 	"edges":[
 		{"id":"261ad34e39c6a012","fromNode":"8a34b95395282c20","fromSide":"right","toNode":"e0ffc5aac4cf8f92","toSide":"left"},
