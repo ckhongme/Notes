@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "b48fc1acb4580931",
+    "type": "split",
+    "children": [
+      {
+        "id": "a34afb543481f5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ac041de6724ea8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa9afabd0b0e7fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d5219500f92c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd6f37b114d11d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0fb70920893762c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "907282f9fa268912",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7e4ae3a4ebb0512",
+    "type": "split",
+    "children": [
+      {
+        "id": "c685c069fe462438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899090a6f2c96e49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cb85903fd5a0745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8babd6b86fbb8894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d4f09ac78a4a05c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6dd6f37b114d11d8",
+  "lastOpenFiles": [
+    "心理学",
+    "统计学/幸存者偏差.md",
+    "统计学/统计学观点.md",
+    "统计学/伯克松悖论.md",
+    "统计学"
+  ]
+}
