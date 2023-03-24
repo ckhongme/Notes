@@ -4,6 +4,7 @@
 跟随物体
 镜头晃动
 
+***
 ### 虚拟相机
 跟踪目标：
 -   **Follow**指定了相机跟随移动的目标。
@@ -37,6 +38,8 @@
 增加dead zone和soft zone来创建一个对目标运动不敏感的相机
 ***
 ### 固定轨道
+可以在菜单栏直接创建
+
 ##### CinemachineSmoothPath
 每个waypoint包含XYZ的坐标信息，以及Roll的旋转信息（绕Z轴的旋转）
 - Resolution：定义waypoint之间的精度，即被分成多少段；

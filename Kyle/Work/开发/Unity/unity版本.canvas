@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"7c4bbd6d9bb6188d","x":-93,"y":-265,"width":124,"height":65,"color":"1","type":"text","text":"Unity2017"},
-		{"id":"8e81c0b90b12f5cc","x":-93,"y":-160,"width":124,"height":60,"color":"2","type":"text","text":"Unity2018"},
-		{"id":"19400254783e9aea","x":-93,"y":-60,"width":124,"height":60,"color":"3","type":"text","text":"Unity2019"},
-		{"id":"495d13450e56874e","x":160,"y":-360,"width":206,"height":50,"type":"file","file":"Work/开发/Unity/插件/时间轴Timeline.md"}
+		{"type":"text","text":"Unity2017","id":"7c4bbd6d9bb6188d","x":-93,"y":-265,"width":124,"height":65,"color":"1"},
+		{"type":"text","text":"Unity2018","id":"8e81c0b90b12f5cc","x":-93,"y":-160,"width":124,"height":60,"color":"2"},
+		{"type":"text","text":"Unity2019","id":"19400254783e9aea","x":-93,"y":-60,"width":124,"height":60,"color":"3"},
+		{"type":"file","file":"Work/开发/Unity/插件/时间轴Timeline.md","id":"495d13450e56874e","x":160,"y":-315,"width":260,"height":50},
+		{"type":"text","text":"Unity2020","id":"e0e5f340024cb962","x":-93,"y":39,"width":124,"height":60,"color":"4"},
+		{"type":"file","file":"Work/开发/Unity/ShaderGraph.md","id":"4610d88ef402c8a0","x":160,"y":65,"width":260,"height":55}
 	],
 	"edges":[
 		{"id":"0239400bddb67abf","fromNode":"7c4bbd6d9bb6188d","fromSide":"bottom","toNode":"8e81c0b90b12f5cc","toSide":"top"},
 		{"id":"52be77699688fdf4","fromNode":"8e81c0b90b12f5cc","fromSide":"bottom","toNode":"19400254783e9aea","toSide":"top"},
-		{"id":"2ce9855f9015b4bb","fromNode":"7c4bbd6d9bb6188d","fromSide":"right","toNode":"495d13450e56874e","toSide":"left"}
+		{"id":"2ce9855f9015b4bb","fromNode":"7c4bbd6d9bb6188d","fromSide":"right","toNode":"495d13450e56874e","toSide":"left"},
+		{"id":"806569828e54b031","fromNode":"19400254783e9aea","fromSide":"bottom","toNode":"e0e5f340024cb962","toSide":"top"},
+		{"id":"bc06dcb2f1fb307f","fromNode":"e0e5f340024cb962","fromSide":"right","toNode":"4610d88ef402c8a0","toSide":"left"}
 	]
 }
