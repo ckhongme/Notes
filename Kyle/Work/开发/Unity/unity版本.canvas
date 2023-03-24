@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7c4bbd6d9bb6188d","x":-93,"y":-265,"width":124,"height":65,"color":"1","type":"text","text":"Unity2017"},
+		{"id":"8e81c0b90b12f5cc","x":-93,"y":-160,"width":124,"height":60,"color":"2","type":"text","text":"Unity2018"},
+		{"id":"19400254783e9aea","x":-93,"y":-60,"width":124,"height":60,"color":"3","type":"text","text":"Unity2019"},
+		{"id":"495d13450e56874e","x":160,"y":-360,"width":206,"height":50,"type":"file","file":"Work/开发/Unity/插件/时间轴Timeline.md"}
+	],
+	"edges":[
+		{"id":"0239400bddb67abf","fromNode":"7c4bbd6d9bb6188d","fromSide":"bottom","toNode":"8e81c0b90b12f5cc","toSide":"top"},
+		{"id":"52be77699688fdf4","fromNode":"8e81c0b90b12f5cc","fromSide":"bottom","toNode":"19400254783e9aea","toSide":"top"},
+		{"id":"2ce9855f9015b4bb","fromNode":"7c4bbd6d9bb6188d","fromSide":"right","toNode":"495d13450e56874e","toSide":"left"}
+	]
+}
