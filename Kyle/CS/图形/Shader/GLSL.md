@@ -22,15 +22,38 @@ GLSL版本号和OpenGL的版本是匹配的；
 ```
 
 ### 标识符
+
 ##### 输入和输出 in & out（对内）
 定义变量是输入还是输出；
 在着色器之间传输；
 只要着色器的输出与下一个着色器的输入匹配（类型和名字都一样），OpenGL就会把两个变量链接到一起，它们之间就能发送数据；
+<details><summary>GLSL版本130之前使用 varying 和 attribute</summary>
+	<pre>
+	变化 varying
+	限定变量只能在Shader之间传递；
+	是顶点着色器的输出，片元着色器的输入；
+	需在2个着色器中同时声明，且保证类型，名称相同；
+	在光栅化时，会跟着一起被光栅插值；
+	</pre>
+	<pre>
+	属性 attribute
+	只能在顶点着色器中使用；只读，且不能为array或struct；
+	</pre>
+</details>
 
 ##### 全局变量 uniform（对外）
 从cpu向gpu发送数据的方式；
 着色器只能访问，不能写入；通过 opengl的函数进行写入（[[uniform赋值#glUniformXX]]）；
 
+***
+##### 元数据 location 和 标识 layout
+为了定义顶点数据该如何管理，需要使用location指定输入变量，这样才可以在CPU上配置顶点属性；
+顶点着色器需要为它的输入提供一个额外的layout标识，这样才能把它链接到顶点数据；
+指定顶点属性对应哪个位置值，后面可以通过位置值来配置顶点属性；
+```cpp
+layout(location = 0) int vec3 mPos;    // 位置变量的属性位置值为 0， 也就是设定了输入变量的位置值(location)
+layout(location = 1) int vec3 mColor;  // 颜色变量的属性位置值为 1
+```
 
 
-GLSL
+
