@@ -18,7 +18,7 @@ em->converXYZToLatLongHeight(x, y, z, osg::DegreesToRadians(world->y()), osg::De
 ```
 
 
-##### 改变位置和姿态
+##### 改变位置和朝向（朝向大地坐标的北方）
 世界坐标系转矩阵：computeLocalToWorldTransformFromXYZ
 ```cpp
 osg::Matrix matrix;
