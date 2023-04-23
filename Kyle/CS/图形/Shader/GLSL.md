@@ -20,9 +20,8 @@ GLSL版本号和OpenGL的版本是匹配的；
 ```glsl
 #version 330 core     //330对应 OpenGL3.3, core表示使用的是核心模式
 ```
-
+***
 ## 标识符
-
 ##### 输入和输出 in & out（对内）
 定义变量是输入还是输出；
 在着色器之间传输；
@@ -44,6 +43,23 @@ GLSL版本号和OpenGL的版本是匹配的；
 ##### 全局变量 uniform（对外）
 从cpu向gpu发送数据的方式；
 着色器只能访问，不能写入；通过 opengl的函数进行写入（[[uniform赋值#glUniformXX]]）；
+***
+## 数据类型
+基础数据类型：int、float、double、uint 和 bool；
+特殊数据类型：
+1. [[glsl聚合类型（向量&矩阵）]]
+2. [[glsl采样器类型]]
+
+数组：
+```glsl
+float[3] array1;
+float array1[3]
+```
+
+
+
+
+
 
 ##### 元数据 location 和 标识 layout
 为了定义顶点数据该如何管理，需要使用location指定输入变量，这样才可以在CPU上配置顶点属性；
@@ -53,11 +69,3 @@ GLSL版本号和OpenGL的版本是匹配的；
 layout(location = 0) int vec3 mPos;    // 位置变量的属性位置值为 0， 也就是设定了输入变量的位置值(location)
 layout(location = 1) int vec3 mColor;  // 颜色变量的属性位置值为 1
 ```
-
-## 数据类型
-基础数据类型：int、float、double、uint和bool；
-特殊数据类型：
-1. [[glsl容器类型（向量 矩阵）]]
-2. [[glsl采样器类型]]
-
-

@@ -24,8 +24,23 @@ vec2 vect = vec2(0.5, 0.7);
 vec4 result = vec4(vect, 0.0, 0.0);
 vec4 otherResult = vec4(result.xyz, 1.0);
 ```
+***
+### 矩阵
+N代表列数，M代表函数，NxM表示3列4行的矩阵；
+初始矩阵为对角矩阵；
+
+##### 长度
+矩阵的lengthf方法返回包含的列数，列的长度返回行的个数；
+```glsl
+
+mat3x3 mat;
+int columeNum = mat.length;
+int rowNum = mat[0].length;
+
+```
 
 
-
+float类型的矩阵 matN 或者 matNxM
+double类型的矩阵 dmatN 或者 dmatNxM
 
 
