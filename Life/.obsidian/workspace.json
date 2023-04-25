@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a34afb543481f5c0",
+        "id": "a9059d79b8ed5dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "84ac041de6724ea8",
+            "id": "370de33a3a9ecbf4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,12 +138,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6dd6f37b114d11d8",
+  "active": "370de33a3a9ecbf4",
   "lastOpenFiles": [
+    "统计学/统计学观点.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "投资",
+    "统计学/伯克松悖论.md",
     "心理学",
     "统计学/幸存者偏差.md",
-    "统计学/统计学观点.md",
-    "统计学/伯克松悖论.md",
     "统计学"
   ]
 }
