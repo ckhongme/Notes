@@ -11,7 +11,7 @@
             "id": "370de33a3a9ecbf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c71af49274425541",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -121,12 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "370de33a3a9ecbf4",
+  "active": "6dd6f37b114d11d8",
   "lastOpenFiles": [
+    "成人高考.canvas",
+    "Book/《我不是教你诈1》.md",
+    "Book",
     "统计学/统计学观点.md",
     "未命名 1.canvas",
     "未命名.canvas",

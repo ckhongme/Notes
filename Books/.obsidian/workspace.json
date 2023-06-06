@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "dbdb51a4a8410d41",
+    "id": "8820d97ad28a9b8f",
     "type": "split",
     "children": [
       {
-        "id": "78d5dc1b20224c05",
+        "id": "0ec539ee234f7fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "475264f5355f1d18",
+            "id": "bd04f1571ab7a1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心理学/《我不是教你诈1》.md",
+                "file": "书单.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -25,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51d76112516d98db",
+    "id": "0b6292d0060f6677",
     "type": "split",
     "children": [
       {
-        "id": "4747fc30f7d3b199",
+        "id": "a80016233bd9d78c",
         "type": "tabs",
         "children": [
           {
-            "id": "57f9d2be5b8d68ec",
+            "id": "5f45b0d912481734",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,22 +44,30 @@
             }
           },
           {
-            "id": "50961f7915c4efe1",
+            "id": "7c6d19df74abe315",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#语言",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "e6b7781f53142c41",
+            "id": "9529bb4bca26f62b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f127fa0eb4a0e28",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +78,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
-    "id": "4d40612286a07278",
+    "id": "1d1773fab8d8510f",
     "type": "split",
     "children": [
       {
-        "id": "aad5898113fcce39",
+        "id": "83daf39d3e5de7ac",
         "type": "tabs",
+        "dimension": 30.35542747358309,
         "children": [
           {
-            "id": "e17cf2190b12c35e",
+            "id": "4031477c021be497",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "书单.md"
+              }
+            }
+          },
+          {
+            "id": "89d0b472e58735c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "21b0213b235bd5a4",
+        "type": "tabs",
+        "dimension": 33.71757925072046,
+        "children": [
+          {
+            "id": "b1ac85949f8f5163",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理学/《我不是教你诈1》.md",
-                "collapseAll": false,
+                "file": "书单.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,35 +136,56 @@
             }
           },
           {
-            "id": "4755a79bb1687645",
+            "id": "9995d96ce56c9cfc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "心理学/《我不是教你诈1》.md",
+                "file": "书单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0a5bb866b369e71e",
+        "type": "tabs",
+        "dimension": 35.92699327569645,
+        "children": [
           {
-            "id": "897188846271d020",
+            "id": "7249a68d807f9e38",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "localgraph",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c97e7a2e64e221cc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "心理学/《我不是教你诈1》.md"
+                "file": "书单.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224446,
+                  "close": true
+                }
               }
             }
           }
@@ -133,24 +193,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "475264f5355f1d18",
+  "active": "7249a68d807f9e38",
   "lastOpenFiles": [
-    "心理学/《我不是教你诈1》 371d5a196b794ae9a5d6e7fe2b0af602.md",
+    "心理学/《我不是教你诈2》.md",
     "心理学/《我不是教你诈1》.md",
-    "新建 文本文档.txt",
-    "心理学"
+    "书单.md",
+    "Work/UE/Unreal 虚幻.md",
+    "插图/叉乘判断内外.png",
+    "CS/图形/图形渲染.md",
+    "CS/图形/渲染管线/渲染管线.md",
+    "CS/图形/渲染管线",
+    "CS/图形/OpenGL/OpenGL.md",
+    "CS/图形/图形接口.canvas",
+    "CS/图形/图形接口.md",
+    "CS/图形/OpenGL/GLAD（查找函数）.md",
+    "CS/图形/OpenGL/OpenGL库.md",
+    "Work/开发/IDE/JetBrains.md",
+    "Work/开发/OSG/OSG.md",
+    "Work/开发/OSG/节点Node.md",
+    "Work/开发/OSG/NodeVisitor.md",
+    "CS/基础/数学/坐标系.md",
+    "CS/基础/软件/编译与链接/编译和链接（源码→二进制文件）.md",
+    "CS/基础/软件/编译与链接/编译程序.md",
+    "CS/基础/软件/编译与链接/链接 Link（目标文件-可执行文件）.md",
+    "CS/基础/软件/编译与链接/编译 Compile（源码-目标文件）.md",
+    "CS/图形/图形.md",
+    "CS/图形/图形接口版本.canvas",
+    "CS/基础/软件/编译与链接",
+    "CS/图形/Metal.md",
+    "CS/图形/DirectX.md",
+    "CS/图形/Vulkan.md",
+    "CS/图形/WebGL.md",
+    "CS/图形/OpenGL ES.md",
+    "CS/基础/算法/算法.md",
+    "CS/语言/数据结构/树",
+    "CS/语言/数据结构",
+    "Work/开发/IDE",
+    "CS/基础/算法",
+    "Work/Consys/Uav.canvas",
+    "Work/Consys/FxEffect.canvas",
+    "Work/Consys/FxStudio/Object系统.canvas",
+    "Work/Consys/FxStudio",
+    "Work/开发/OSG",
+    "插图/UTF-8.png",
+    "插图/Unicode.png",
+    "插图/Unicode和UTF-8.png",
+    "插图/ASCII编码表.png",
+    "CS/语言/开发者平台",
+    "插图/叉乘判断左右.png",
+    "插图/左右手坐标系.png",
+    "插图",
+    "插图/内存分区.png",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
   ]
 }

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce853d1b930f5241",
+        "id": "03adc9bbe07c5d68",
         "type": "tabs",
         "children": [
           {
-            "id": "db9309765a5b4448",
+            "id": "5467ed3a2f609db8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/图形/渲染管线/渲染管线.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#语言",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,13 +60,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6f127fa0eb4a0e28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -87,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/图形/渲染管线/渲染管线.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +104,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "21b0213b235bd5a4",
@@ -116,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/图形/渲染管线/渲染管线.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/图形/渲染管线/渲染管线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/图形/渲染管线/渲染管线.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +197,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "5f45b0d912481734",
+  "active": "89d0b472e58735c3",
   "lastOpenFiles": [
+    "Work/UE/Unreal 虚幻.md",
+    "插图/叉乘判断内外.png",
     "CS/图形/图形渲染.md",
     "CS/图形/渲染管线/渲染管线.md",
     "CS/图形/渲染管线",
@@ -244,8 +244,6 @@
     "插图/Unicode和UTF-8.png",
     "插图/ASCII编码表.png",
     "CS/语言/开发者平台",
-    "插图/叉乘判断内外.png",
-    "插图/叉乘判断内外.png",
     "插图/叉乘判断左右.png",
     "插图/左右手坐标系.png",
     "插图",
