@@ -1,3 +1,6 @@
+#图形/Shader 
+***
+osg使用的shader语言是[[GLSL]]；
 
 ```cpp
 //shader程序对象
@@ -10,4 +13,4 @@ program->addShader( osgDB::readRefShaderFile(osg::Shader::GEOMETRY,"Shaders/xxx.
 program->addShader( osgDB::readRefShaderFile(osg::Shader::FRAGMENT,"Shaders/xxx.frag.glsl"));
 ```
 
-
+[[osg内置变量]]

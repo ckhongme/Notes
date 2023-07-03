@@ -6,7 +6,7 @@
 [[观察指针 observer_ptr]]
 
 [[节点Node]]
-[[Shader（osg)]]
+[[OSG图形]]
 
 [[osgEarth]]
 

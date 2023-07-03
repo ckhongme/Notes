@@ -6,7 +6,6 @@ Shading Language，用于编写着色器代码；
 ### 着色器语言分类
 [[GLSL]]
 [[HLSL & Cg]]
-基于Cg的[[Shaderlab]]
 
 ### 内置变量
 自动向着色器传递，不需要重新定义，在着色器中可以直接使用的变量；
@@ -17,9 +16,17 @@ Shading Language，用于编写着色器代码；
 [[glsl内置变量]]
 [[osg内置变量]]
 [[unity内置变量（语义）]]
-
+***
 ### 应用场景
 在Windows下的图形接口是 DirectX，DirectX使用 HLSL 编写shader；
 在Linux下的图形接口是 OpenGL，OpenGL使用 GLSL 编写shader；
 NVIDIA和微软合作提供的 Cg，语法跟HLSL非常相像，可以无缝移植成HLSL代码，DirectX和OpenGL都支持；
 
+#### GLSL开发
+[[ShaderToy]]（在网页上只编写片元着色器）
+[[OSG图形]]（直接调用glsl文件）
+[[OSG Shader]]（需要学习对应的封装规则）
+
+#### HLSL开发
+[[Shaderlab]]（需要学习对应的封装规则）
+[[UnrealShader]]（需要学习对应的封装规则）

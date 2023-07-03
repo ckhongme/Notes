@@ -22,9 +22,8 @@ GLSL版本号和OpenGL的版本是匹配的；
 ```
 ***
 ## 标识符
-##### 输入和输出 in & out（对内）
-定义变量是输入还是输出；
-在着色器之间传输；
+#### 输入和输出 in & out（对内）
+定义变量是输入还是输出；在着色器之间传输；
 只要着色器的输出与下一个着色器的输入匹配（类型和名字都一样），OpenGL就会把两个变量链接到一起，它们之间就能发送数据；
 <details><summary>GLSL版本130之前使用 varying 和 attribute</summary>
 	<pre>
@@ -40,7 +39,7 @@ GLSL版本号和OpenGL的版本是匹配的；
 	</pre>
 </details>
 
-##### 全局变量 uniform（对外）
+#### 全局变量 uniform（对外）
 从cpu向gpu发送数据的方式；
 着色器只能访问，不能写入；通过 opengl的函数进行写入（[[uniform赋值#glUniformXX]]）；
 ***
