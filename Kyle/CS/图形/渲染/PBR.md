@@ -5,8 +5,11 @@
 通过“金属度值”整合了2个shader（1个非金属，一个金属）；
 
 ### PBR相关的纹理
-[[Albedo Map]]
+[[Albedo Map]]（存放着金属的反射颜色和非金属的漫反射颜色）
 [[Normal Map]]
 [[Metallic Map]]
 [[Roughness Map]]
 [[AO Map]]
+
+
+
