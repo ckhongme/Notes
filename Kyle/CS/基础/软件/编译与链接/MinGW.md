@@ -1,6 +1,9 @@
 #计算机软件
 ***
-windows下主要使用的是[[GCC（Unix-like系统的编译器）]]的稳定移植版：
+[[GCC]]在win的移植版；
+
+### MinGW
+windows下主要使用的是GCC的稳定移植版：
 1.  MinGW：让GCC的移植版能够使用Win32API来编程；
 2.  Cygwin：让 Unix-like 的程序代码能在 windows下被直接编译；
 
