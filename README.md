@@ -1,4 +1,4 @@
-# Obsidian-Notes
+# Notes
 
 Kyle
 History
