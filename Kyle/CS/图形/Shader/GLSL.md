@@ -39,9 +39,7 @@ GLSL版本号和OpenGL的版本是匹配的；
 	</pre>
 </details>
 
-#### 全局变量 uniform（对外）
-从cpu向gpu发送数据的方式；
-着色器只能访问，不能写入；通过 opengl的函数进行写入（[[uniform赋值#glUniformXX]]）；
+#### 全局变量 [[uniform]]（对外）
 ***
 ## 数据类型
 基础数据类型：int、float、double、uint 和 bool；
@@ -54,11 +52,6 @@ GLSL版本号和OpenGL的版本是匹配的；
 float[3] array1;
 float array1[3]
 ```
-
-
-
-
-
 
 ##### 元数据 location 和 标识 layout
 为了定义顶点数据该如何管理，需要使用location指定输入变量，这样才可以在CPU上配置顶点属性；

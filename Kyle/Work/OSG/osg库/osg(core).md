@@ -18,17 +18,19 @@
 [[osg-Geometry]]：几何体类
 [[osg-ShapeDrawable]]：预定义几何体类
 
-
-
-### 状态
-[[osg-StateSet]]
-[[osg-StateAttribute]]
-
-
-
+### 渲染相关
+[[osg-StateSet]]：状态集
+[[osg-StateAttribute]]：渲染状态属性的抽象基类
+[[osg-Texture]]：纹理属性
+[[osg-Material]]：材质属性
+[[osg-Light]]：光照属性
+[[osg-Uniform]]：着色器中的uniform变量
 
 ### 函数
-角度转弧度：`osg::DegreesToRadians(45.0)；`
+```cpp
+osg::DegreesToRadians(45.0)； //角度转弧度
+```
+
 
 
 
