@@ -1,5 +1,7 @@
 #计算机软件 
 ***
+生成对应[[IDE]]的工程文件；
+
 ### **为什么会有 CMake？**
 根据开发用的IDE，每次都需要花时间从源码的 .c/.cpp 和 .h/.hpp 文件来建立对应的工程文件/解决方案；
 为了帮开发者节省这个时间，所以有了CMake；
@@ -21,10 +23,4 @@ CMake需要一个**源代码目录**和一个存放编译结果的**目标文件
 -   相关配置
     CMAKE_INSTALL_PREFIX：工程在执行install目标时，安装的路径前缀；
 
-
-### CMakeLists.txt
-CMake的所有操作都是在CMakeLists.txt里面完成的
-```bash
-# 增加子目录app
-add_subdirectory(app);
-```
+CMake的所有操作都是在[[CMakeLists.txt]]里面完成的

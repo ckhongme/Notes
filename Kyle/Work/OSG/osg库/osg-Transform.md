@@ -1,0 +1,1 @@
+派生类有osg::MatrixTransform、osg::PositionAttitudeTransform和osg::ScaleTransform

@@ -11,6 +11,5 @@
 2. 引用头文件：`#include <osg/ref_ptr>`
 3. 使用智能指针模板 `osg::ref_prt<class T>` 来定义类的实例；
 
-### osg::Reference类
-实现了对内存区段的引用计数器功能
+
 
