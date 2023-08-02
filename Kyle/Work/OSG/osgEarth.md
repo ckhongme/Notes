@@ -1,6 +1,5 @@
 ### CoordinateSystemNode脚本
 x是经度lon，y是维度lat，方法里面lat在前面，lon在后面；
-
 ##### 只改变位置
 地理坐标系转世界坐标系：convertLatLongHeightToXYZ 
 ```cpp
@@ -16,8 +15,6 @@ em->convertLatLongHeightToXYZ(osg::DegressToRadians(y), osg::DegressToRadians(x)
 // 注意纬度在前面
 em->converXYZToLatLongHeight(x, y, z, osg::DegreesToRadians(world->y()), osg::DegreesToRadians(world->x()), world->z());
 ```
-
-
 ##### 改变位置和朝向（朝向大地坐标的北方）
 世界坐标系转矩阵：computeLocalToWorldTransformFromXYZ
 ```cpp
@@ -33,4 +30,6 @@ csn->getEllipsoidModel()->conputeLocalToWorldTransformFromXYZ(world->y(), world-
 // 经纬度转矩阵 (注意纬度在前面)
 csn->getEllipsoidModel()->computeLocalToWorldTransformLatLongHeight(osg::DegressToRadians(y),osg::DegressToRadians(x), z, matrix);
 ```
+
+
 
