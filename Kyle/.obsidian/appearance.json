@@ -1,7 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "theme": "moonstone",
   "cssTheme": "",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "微软雅黑",
+  "textFontFamily": "微软雅黑"
 }
