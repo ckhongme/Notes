@@ -1,7 +1,5 @@
-观察矩阵的本质就是在摆放相机；
-而确定一个相机的摆放有三个条件：position + look-at + up-direction
-观察矩阵做的就是将Camera变换到标准位置上，origin + look-at -Z + up at Y
-
+观察矩阵的本质就是在摆放[[摄像机]]；
+观察矩阵做的就是将Camera变换到标准位置上：origin + look-at -Z + up at Y（[[摄像机#怎么定义摄像机？]]）
 ***
 ### 推导流程
 t是相机的up方向，g是相机forward方向，g×t是相机的；

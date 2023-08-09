@@ -6,7 +6,7 @@
       {
         "id": "68e03f0c2e56c809",
         "type": "tabs",
-        "dimension": 40,
+        "dimension": 48.800599700149924,
         "children": [
           {
             "id": "555197f6b361960b",
@@ -15,19 +15,6 @@
               "type": "markdown",
               "state": {
                 "file": "CS/图形/图形接口/OpenGL/处理shader（opengl）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e56b87bb38493550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/图形/图形接口/OpenGL/OpenGL库/opengl-core.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,6 +35,40 @@
             }
           },
           {
+            "id": "8ce21ffefb7d6bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Unity/图形/内置变量(shaderlab语义).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6149b3c19056a83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/OSG/内置变量(osg shader).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ba70fac40d7b500",
+        "type": "tabs",
+        "dimension": 51.199400299850076,
+        "children": [
+          {
             "id": "fe38487db7dacea8",
             "type": "leaf",
             "state": {
@@ -59,61 +80,14 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ab66a2c34fa2bb42",
-        "type": "tabs",
-        "dimension": 60,
-        "children": [
-          {
-            "id": "81021790bbe8ec02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/基础/数学/矩阵.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           },
           {
-            "id": "dcae80e1eee0ab3e",
+            "id": "40acef0f9043f228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/基础/数学/缩放矩阵.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5372a67e37340e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/图形/渲染/空间坐标系/观察矩阵（V矩阵）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70f567bdc384f60c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
+                "file": "CS/图形/图形基础/纹理/纹理坐标UV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 301.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -196,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md"
+                "file": "CS/图形/图形基础/纹理/纹理坐标UV.md"
               }
             }
           },
@@ -224,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
+                "file": "CS/图形/图形基础/纹理/纹理坐标UV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
+                "file": "CS/图形/图形基础/纹理/纹理坐标UV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
+                "file": "CS/图形/图形基础/纹理/纹理坐标UV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +257,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277725,
+                  "scale": 0.7514342322277731,
                   "close": true
                 }
               }
@@ -306,35 +280,37 @@
       "canvas:新建白板": false
     }
   },
-  "active": "70f567bdc384f60c",
+  "active": "40acef0f9043f228",
   "lastOpenFiles": [
-    "插图/图形的插图/透视投影.png",
-    "CS/图形/渲染/空间坐标系/观察矩阵（V矩阵）.md",
-    "CS/基础/数学/矩阵.md",
-    "CS/基础/数学/缩放矩阵.md",
-    "CS/图形/渲染/空间坐标系/世界空间.md",
-    "CS/图形/渲染/空间坐标系/观察空间.md",
-    "CS/图形/渲染/几何阶段.md",
-    "CS/图形/渲染/空间坐标系/裁剪空间.md",
-    "CS/图形/渲染/空间坐标系/透视除法.md",
-    "CS/基础/数学/旋转矩阵.md",
-    "CS/基础/数学/齐次坐标.md",
-    "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
     "CS/图形/Shader/内置变量(glsl).md",
+    "CS/图形/图形基础/纹理/纹理坐标UV.md",
+    "CS/图形/渲染/几何阶段.md",
+    "CS/图形/Shader/Shading Language.md",
+    "Work/OSG/内置变量(osg shader).md",
+    "Work/Unity/图形/内置变量(shaderlab语义).md",
+    "CS/图形/图形接口/OpenGL/处理shader（opengl）.md",
+    "CS/基础/数学/矩阵.md",
+    "CS/基础/数学/位移矩阵.md",
+    "CS/基础/数学/向量.md",
+    "CS/基础/数学/旋转矩阵.md",
+    "插图/图形的插图/旋转矩阵原理示意图.png",
+    "CS/基础/数学/缩放矩阵.md",
+    "CS/图形/渲染/空间坐标系/投影矩阵（P矩阵）.md",
+    "CS/图形/渲染/空间坐标系/MVP矩阵.md",
+    "CS/图形/渲染/空间坐标系/观察矩阵（V矩阵）.md",
+    "CS/图形/渲染/空间坐标系/世界空间.md",
+    "CS/图形/图形接口/OpenGL/OpenGL库/opengl-core.md",
+    "CS/基础/数学/齐次坐标.md",
+    "CS/图形/渲染/空间坐标系/透视除法.md",
+    "CS/图形/渲染/空间坐标系/裁剪空间.md",
+    "CS/图形/渲染/空间坐标系/观察空间.md",
+    "CS/图形/渲染/空间坐标系/摄像机.md",
+    "CS/图形/图形接口/OpenGL/摄像机(opengl).md",
+    "CS/图形/图形接口/OpenGL/渲染循环.md",
+    "插图/图形的插图/透视投影.png",
     "CS/基础/数学/向量矩阵.md",
     "CS/基础/数学/点矩阵.md",
-    "CS/基础/数学/向量.md",
-    "CS/基础/数学/位移矩阵.md",
-    "CS/基础/数学/对角线矩阵.md",
-    "CS/基础/数学/正交矩阵.md",
-    "CS/基础/数学/转置矩阵.md",
-    "CS/基础/数学/逆矩阵.md",
-    "CS/基础/数学/单位矩阵E.md",
-    "CS/基础/数学/方阵.md",
-    "CS/基础/数学/数学.md",
     "插图/图形的插图/正交投影.png",
-    "CS/图形/渲染/渲染管线流水线.md",
-    "CS/图形/渲染/空间坐标系/视口变换.md",
     "插图/图形的插图/光栅化渲染流水线的思维导图.png",
     "CS/图形/渲染/空间坐标系",
     "Work/iOS",
@@ -344,8 +320,6 @@
     "插图/数学/复数平面.png",
     "插图/数学/单位四元数.png",
     "插图/数学/四元数的共轭.png",
-    "插图/数学/四元数的逆.png",
-    "插图/数学/四元数的旋转.png",
     "插图/引擎",
     "插图/数学",
     "Work/Unity/API",
