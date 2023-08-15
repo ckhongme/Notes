@@ -15,7 +15,6 @@
 编译着色器：[[opengl-core#glCompileShader]]
 判断编译是否成功：[[opengl-core#glGetShaderiv]]
 删除着色器对象：[[opengl-core#glDeleteShader]]
-
 ##### 着色器程序对象
 创建程序：[[opengl-core#glCreateProgram]]
 附加并链接：[[opengl-core#glAttachShader & glLinkProgram]]
@@ -24,3 +23,4 @@
 删除程序：[[opengl-core#glDeleteProgram]]
 
 
+视口变换：[[opengl-core#glViewPort]]

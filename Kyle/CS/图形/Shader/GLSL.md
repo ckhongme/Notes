@@ -48,7 +48,7 @@ GLSL版本号和OpenGL的版本是匹配的；
 2. [[glsl采样器类型]]
 
 数组：
-```glsl
+```
 float[3] array1;
 float array1[3]
 ```
@@ -57,7 +57,7 @@ float array1[3]
 为了定义顶点数据该如何管理，需要使用location指定输入变量，这样才可以在CPU上配置顶点属性；
 顶点着色器需要为它的输入提供一个额外的layout标识，这样才能把它链接到顶点数据；
 指定顶点属性对应哪个位置值，后面可以通过位置值来配置顶点属性；
-```glsl
+```
 layout(location = 0) int vec3 mPos;    // 位置变量的属性位置值为 0， 也就是设定了输入变量的位置值(location)
 layout(location = 1) int vec3 mColor;  // 颜色变量的属性位置值为 1
 ```

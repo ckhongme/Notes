@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "foldIndent": false,
   "showInlineTitle": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "showFrontmatter": false
 }

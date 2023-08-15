@@ -2,7 +2,6 @@
 ***
 ### glUniformXX
 将uniform变量的值床底给着色器程序；
-
 ##### XX后缀表示数据的类型：
 - glUniform1i：int类型
 - glUniform1f：float类型
@@ -12,7 +11,6 @@
 - glUniformMatrix2fv：mat2矩阵
 - glUniformMatrix3fv：mat3矩阵
 - glUniformMatrix4fv：mat4矩阵
-
 ##### 传入矩阵 glUniformMatrix4fv 
 ```cpp
 unsigned int transformLoc = glGetUniformLocation(ourShader.ID, "transform");
@@ -28,14 +26,13 @@ glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(trans));
 ###
 ***
 ### 着色器
-#### glCreateShader
+##### glCreateShader
 创建着色器对象；
 ```cpp
 //需要用id来引用，如果是片元着色器，类型就是 GL_FRAGMENT_SHADER）
 usigned int vertexShader = glCreateShader(GL_VERTEX_SHADER);    
 ```
-
-#### glShaderSource
+##### glShaderSource
 附加源码：将着色器源码附加到着色器对象上；
 ```cpp
 glShaderSource(vertexShader, 1, &vertexShaderSource, NULL);
@@ -45,14 +42,12 @@ glShaderSource(vertexShader, 1, &vertexShaderSource, NULL);
 第三个参数：真正的源码
 第四个参数：NULL*/
 ```
-
-#### glCompileShader
+##### glCompileShader
 编译着色器：要在OpenGL中使用着色器，就需要在运行时动态编译它的源码；
 ```cpp
 glCompileShader(vertexShader);
 ```
-
-#### glGetShaderiv
+##### glGetShaderiv
 判断编译是否成功
 ```cpp
 int  success;
@@ -64,8 +59,7 @@ if(!success)
     std::cout << "ERROR::SHADER::VERTEX::COMPILATION_FAILED\\n" << infoLog << std::endl;
 }
 ```
-
-#### glDeleteShader 
+##### glDeleteShader 
 删除着色器对象 
 ```cpp
 glDeleteShader(vertexShader);
@@ -74,14 +68,13 @@ glDeleteShader(fragmentShader);
 ###
 ***
 ### 着色器程序
-#### glCreateProgram 
+##### glCreateProgram 
 创建程序：返回的是程序对象的ID引用；
 ```cpp
 unsigned int shaderProgram;
 shaderProgram = glCreateProgram();    //返回了新创建程序对象的ID引用
 ```
-
-#### glAttachShader & glLinkProgram 
+##### glAttachShader & glLinkProgram 
 附加并链接：把着色器附加到了程序，并链接；
 ```cpp
 //先把编译好的着色器附加到程序对象上；
@@ -90,8 +83,7 @@ glAttachShader(shaderProgram, fragmentShader);
 //程序对象着色器
 glLinkProgram(shaderProgram);
 ```
-
-#### glGetProgramiv 
+##### glGetProgramiv 
 判断链接是否成功
 ```cpp
 glGetProgramiv(shaderProgram, GL_LINK_STATUS, &success);   //检查着色器是否成功链接到程序
@@ -100,17 +92,25 @@ if(!success) {
 		std::cout << "ERROR::SHADER::PROGRAM::LINKING_FAILED\\n" << infoLog << std::endl;
 }
 ```
-
-#### glUseProgram
+##### glUseProgram
 激活程序对象
 ```cpp
 glUseProgram(shaderProgram);
 ```
-
-#### glDeleteProgram 
+##### glDeleteProgram 
 删除程序 
 ```cpp
 glDeleteProgram(shaderProgram);
 ```
 ###
 ***
+##### glViewPort
+进行[[视口变换]]；
+```cpp
+glViewPort(x, y, width, height);
+
+//x和y：表示视口左下角在窗口中的坐标
+//width和height：表示视口的宽度和高度
+```
+
+

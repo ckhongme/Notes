@@ -1,10 +1,6 @@
 继承自[[osg-Node]]
 
-
-
 派生类包括osg::LOD、osg::Switch
-
-
 ##### traverse
 用来实现对场景图中所有节点的递归遍历；
 接受一个osg;:NodeVisitor类型的参数；
