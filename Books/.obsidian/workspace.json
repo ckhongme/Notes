@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心理学/心理学.md",
+                "file": "心理学/《我不是教你诈1》.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "心理学/心理学.md"
+                "file": "心理学/《我不是教你诈1》.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理学/心理学.md",
+                "file": "心理学/《我不是教你诈1》.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "心理学/心理学.md",
+                "file": "心理学/《我不是教你诈1》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "心理学/心理学.md",
+                "file": "心理学/《我不是教你诈1》.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,16 +206,17 @@
       "canvas:新建白板": false
     }
   },
-  "active": "5f45b0d912481734",
+  "active": "adb0b31a32c299b7",
   "lastOpenFiles": [
     "心理学/《我不是教你诈2》.md",
-    "心理学/《我不是教你诈1》.md",
-    "阅读年份/2023.md",
-    "Template/格式.md",
-    "Template",
-    "心理学/心理学.md",
-    "阅读年份",
+    "心理学/《我不是教你诈3》.md",
     "书单.md",
+    "Template/格式.md",
+    "阅读年份/2023.md",
+    "心理学/心理学.md",
+    "心理学/《我不是教你诈1》.md",
+    "Template",
+    "阅读年份",
     "Work/UE/Unreal 虚幻.md",
     "插图/叉乘判断内外.png",
     "CS/图形/图形渲染.md",
@@ -240,7 +241,6 @@
     "CS/基础/软件/编译与链接",
     "CS/图形/Metal.md",
     "CS/图形/DirectX.md",
-    "CS/图形/Vulkan.md",
     "CS/语言/数据结构/树",
     "CS/语言/数据结构",
     "Work/开发/IDE",

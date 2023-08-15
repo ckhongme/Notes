@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/图形/渲染/深度测试.md",
+                "file": "CS/图形/图形基础/色彩/特性/物体色.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "1d1773fab8d8510f",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/图形/渲染/深度测试.md"
+                "file": "CS/图形/图形基础/色彩/特性/物体色.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/图形/渲染/深度测试.md",
+                "file": "CS/图形/图形基础/色彩/特性/物体色.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/图形/渲染/深度测试.md",
+                "file": "CS/图形/图形基础/色彩/特性/物体色.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/图形/渲染/深度测试.md",
+                "file": "CS/图形/图形基础/色彩/特性/物体色.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,35 +209,36 @@
   },
   "active": "738fdb7957c2e5b4",
   "lastOpenFiles": [
-    "CS/基础/数学/视觉空间View Space.md",
-    "CS/图形/渲染/深度测试.md",
-    "CS/基础/数学/坐标系.md",
-    "CS/基础/数学/数学.md",
-    "CS/基础/数学/矩阵.md",
-    "Work/Unity/图形/ZTest 和 ZWrite.md",
-    "Work/Unity/图形/Unity预制渲染管线.md",
-    "CS/基础/数学/右手坐标系.md",
-    "CS/基础/数学/向量.md",
-    "CS/基础/数学/左手坐标系.md",
-    "CS/图形/图形接口/OpenGL/设置管线状态.md",
-    "Work/Unity/图形/SRP 可编程渲染管线.md",
+    "Work/Git/Git（分布式）.md",
+    "CS/语言/数据结构/栈stack.md",
+    "CS/语言/数据结构/树/B树.md",
+    "CS/图形/Shader/片元着色器.md",
+    "CS/图形/图形接口/Metal.md",
+    "Template/table.md",
+    "Template/网址.md",
+    "CS/图形/图形接口/OpenGL/OpenGL.md",
+    "Template/下划线.md",
+    "Template/Toggle.md",
+    "Template/code.md",
+    "Template/下划线（3级标题同级）.md",
+    "Work/Unity/Unity.md",
+    "Work/Unity/Shaderlab.md",
+    "Work/Unreal/UE 虚幻.md",
+    "Work/OSG/OSG.md",
+    "Work/OSG/节点Node.md",
+    "Work/IDE/JetBrains.md",
+    "Work/IDE/IDE.md",
+    "Work/Git/Git联网操作.md",
+    "Work/Git/Git本地操作.md",
+    "CS/图形/图形基础/视觉空间View Space.md",
+    "Work/UE/UE图形.md",
+    "Work/UE/Unreal 虚幻.md",
+    "Work/UE/UnrealShader.md",
+    "CS/图形/图形基础/色彩/加色模式.md",
+    "未命名.canvas",
     "插图/图形的插图",
     "插图/图形的插图/画家算法的缺陷.jpg",
     "插图/图形的插图/画家算法.jpg",
-    "Work/Unity/图形/高清渲染管线HDRP.md",
-    "CS/语言/开发者平台/CLR.md",
-    "CS/图形/图形接口/OpenGL/OpenGL库/用GLFW创建窗口.md",
-    "CS/图形/图形接口/OpenGL/OpenGL库/GLEW（输入输出）.md",
-    "CS/基础/软件/操作系统OS/堆栈 Stack & Heap.md",
-    "CS/语言/数据结构/堆Heap.md",
-    "Work/Unreal/UE 虚幻.md",
-    "Work/u3d和ue的对比.md",
-    "Work/游戏引擎.md",
-    "Work/三维渲染引擎.md",
-    "Work/状态机FSM.md",
-    "Work/Web开发（前端和后端）.md",
-    "Work/win 命令行.md",
-    "Work/开发引擎.md",
     "CS/图形/渲染管线",
     "CS/图形/图形接口.canvas",
     "CS/图形/图形接口版本.canvas",
