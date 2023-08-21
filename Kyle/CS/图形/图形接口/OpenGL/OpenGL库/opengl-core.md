@@ -104,6 +104,47 @@ glDeleteProgram(shaderProgram);
 ```
 ###
 ***
+### 缓冲对象
+##### glBindBuffer & glBufferData
+绑定缓冲对象，复制数据到缓冲的内存
+```cpp
+//将 VBO 绑定到 目标上
+glBindBuffer(GL_ARRAY_BUFFER, VBO);
+//把顶点数据复制到缓冲的内存中
+glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+```
+###### 缓冲区数据用途
+usage标志有3个枚举值：
+- GL_STATIC_DRAW ：数据不会或几乎不会改变。
+- GL_DYNAMIC_DRAW：数据会被改变很多。
+- GL_STREAM_DRAW ：数据每次绘制时都会改变。
+###
+***
+### 顶点属性
+##### glVertexAttribPointer
+设置顶点属性指针
+```Cpp
+glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0); 
+/* 
+参数1：指定要配置的顶点属性索引值 
+参数2：顶点属性的大小 
+参数3：数据的类型 
+参数4：数据是否需要标准化到（-1，1）之间，需要为GL_TRUE，不需要为GL_FALSE 
+参数5：步长，即连续的顶点属性组之间的间隔 
+参数6：偏移量，void*类型，表示位置数据在缓冲中起始位置的偏移量 */
+```
+##### glEnableVertexAttribArray
+启用顶点属性
+```cpp
+glEnableVertexAttribArray(0);  //0是顶点属性索引值
+```
+glDisableVertexAttribArray
+取消顶点属性
+```cpp
+glDisableVertexAttribArray(0); //0是顶点属性索引值
+```
+###
+***
 ##### glViewPort
 进行[[视口变换]]；
 ```cpp
@@ -112,5 +153,9 @@ glViewPort(x, y, width, height);
 //x和y：表示视口左下角在窗口中的坐标
 //width和height：表示视口的宽度和高度
 ```
+***
 
 
+
+
+ 

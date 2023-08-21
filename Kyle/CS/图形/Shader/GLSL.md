@@ -1,6 +1,5 @@
 #图形/Shader
 全称OpenGL Shading Language（OpenGL着色器语言），是一门针对GPU的编程语言；
-
 ## 基础结构
 ```glsl
 #version 版本号 模式          //版本声明
@@ -13,7 +12,6 @@ void main                    //main函数：所有着色器的入口点
 	//处理输入，转化成输出 
 }
 ```
-
 ##### 版本声明
 每个着色器都起始于一个版本声明；
 GLSL版本号和OpenGL的版本是匹配的；
@@ -40,6 +38,11 @@ GLSL版本号和OpenGL的版本是匹配的；
 </details>
 
 #### 全局变量 [[uniform]]（对外）
+
+***
+## 限定符
+[[布局限定符Layout]]
+
 ***
 ## 数据类型
 基础数据类型：int、float、double、uint 和 bool；
@@ -51,13 +54,4 @@ GLSL版本号和OpenGL的版本是匹配的；
 ```
 float[3] array1;
 float array1[3]
-```
-
-##### 元数据 location 和 标识 layout
-为了定义顶点数据该如何管理，需要使用location指定输入变量，这样才可以在CPU上配置顶点属性；
-顶点着色器需要为它的输入提供一个额外的layout标识，这样才能把它链接到顶点数据；
-指定顶点属性对应哪个位置值，后面可以通过位置值来配置顶点属性；
-```
-layout(location = 0) int vec3 mPos;    // 位置变量的属性位置值为 0， 也就是设定了输入变量的位置值(location)
-layout(location = 1) int vec3 mColor;  // 颜色变量的属性位置值为 1
 ```
