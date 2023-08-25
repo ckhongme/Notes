@@ -25,12 +25,17 @@
 [[osg-Material]]：材质属性
 [[osg-Light]]：光照属性
 [[osg-Uniform]]：着色器中的uniform变量
+[[osg-GraphicsContext]]：图形上下文
 
 ### 函数
 ```cpp
 osg::DegreesToRadians(45.0)； //角度转弧度
 ```
-
+### 调试
+设置日志输出级别为调试信息级别
+```cpp
+osg::setNotifyLevel(osg::DEBUG_INFO);
+```
 
 
 

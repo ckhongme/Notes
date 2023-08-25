@@ -1,10 +1,10 @@
 ### layout（location = x）
 指定输入输出变量的属性位置值；
 ##### 顶点着色器
-使用location指定变量的位置索引后，**可以通过索引值来配置指定的[[顶点属性]]**；
+使用location指定变量的位置索引后，**可以通过索引值来配置指定的[[顶点属性]]**；这个索引值也叫做[[顶点属性别名]]；
 ```glsl
-layout(location = 0) in vec3 mPos;    // 位置变量的属性位置值为 0， 也就是设定了输入变量的位置值(location)
-layout(location = 1) in vec3 mColor;  // 颜色变量的属性位置值为 1
+layout(location = 0) in vec3 mPos;    // 位置变量的属性别名为 0， 也就是设定了输入变量的位置值(location)
+layout(location = 1) in vec3 mColor;  // 颜色变量的属性别名为 1
 ```
 
 占用多个位置时：（结构体 & 数组）
