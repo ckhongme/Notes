@@ -6,7 +6,7 @@
 		{"type":"group","id":"326acc39e193a25d","x":-220,"y":1200,"width":280,"height":280,"color":"4","label":"各种测试"},
 		{"type":"group","id":"f44fe2d0acf89e8c","x":-800,"y":-100,"width":225,"height":190,"color":"4","label":"存储数据"},
 		{"type":"file","file":"CS/图形/渲染/纹理对象.md","id":"b9a0f68c1773eaa8","x":-780,"y":20,"width":185,"height":50,"color":"4"},
-		{"type":"file","file":"CS/图形/渲染/缓冲对象.md","id":"b647291f1a0c61c6","x":-780,"y":-60,"width":185,"height":50,"color":"4"},
+		{"type":"file","file":"CS/图形/图形接口/缓冲对象/缓冲对象.md","id":"b647291f1a0c61c6","x":-780,"y":-60,"width":185,"height":50,"color":"4"},
 		{"type":"text","text":"**导入数据到GPU内存**","id":"3d6d0069c7e08d1e","x":-392,"y":-35,"width":105,"height":100,"color":"4"},
 		{"type":"file","file":"CS/图形/图形基础/纹理/纹理.md","id":"6223a2d4112099dc","x":-538,"y":-195,"width":133,"height":53,"color":"3"},
 		{"type":"text","text":"**三维建模软件**","id":"f5e46686c0cdf3d5","x":-258,"y":-295,"width":140,"height":50,"color":"3"},
