@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "8820d97ad28a9b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc187e2c3670f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e70c4c48b68595",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b6292d0060f6677",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80016233bd9d78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f45b0d912481734",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c6d19df74abe315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9529bb4bca26f62b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7475d0a92209f64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1d1773fab8d8510f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83daf39d3e5de7ac",
+        "type": "tabs",
+        "dimension": 42.11538461538461,
+        "children": [
+          {
+            "id": "4031477c021be497",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "89d0b472e58735c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa36ef999350c153",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "21b0213b235bd5a4",
+        "type": "tabs",
+        "dimension": 19.230769230769234,
+        "children": [
+          {
+            "id": "b1ac85949f8f5163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9995d96ce56c9cfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a5bb866b369e71e",
+        "type": "tabs",
+        "dimension": 38.65384615384615,
+        "children": [
+          {
+            "id": "7249a68d807f9e38",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000033,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "78e70c4c48b68595",
+  "lastOpenFiles": [
+    "冰箱.md",
+    "工具/微波炉.md",
+    "工具/工具.md",
+    "工具/电饭煲.md",
+    "菜单/煎牛排.md",
+    "菜单/饺子.md",
+    "菜单/食疗",
+    "肉禽/牛肉.md",
+    "调味料/小苏打.md",
+    "菜单/番茄炒蛋.md",
+    "菜单/红烧肉.md",
+    "菜单/三明治&汉堡.md",
+    "菜单/玉米浓汤.md",
+    "肉禽/肉禽.md",
+    "肉禽/培根.md",
+    "菜单.md",
+    "蔬菜/生菜.md",
+    "三明治",
+    "调味料/调味料.md",
+    "调味料/黄油.md",
+    "蔬菜/番茄.md",
+    "蔬菜/玉米.md",
+    "肉禽/鸡翅.md",
+    "蔬菜/蔬菜.md",
+    "海鲜水产/鱼类.md",
+    "肉禽/鸡蛋.md",
+    "乳制品/牛奶.md",
+    "乳制品/未命名",
+    "菜单",
+    "饮料",
+    "海鲜水产",
+    "乳制品",
+    "工具",
+    "肉禽",
+    "调味料",
+    "插图/图形的插图/CIE1931色度图中的色域.png",
+    "插图/图形的插图/CIE 1931 xy 色度图.png",
+    "CS/图形/Shader.canvas",
+    "插图/图形的插图/HSV model.png",
+    "未命名.canvas",
+    "插图/图形的插图/画家算法的缺陷.jpg",
+    "插图/图形的插图/画家算法.jpg",
+    "CS/图形/图形接口.canvas",
+    "CS/图形/图形接口版本.canvas",
+    "Work/Consys/Uav.canvas",
+    "Work/Consys/FxEffect.canvas",
+    "Work/Consys/FxStudio/Object系统.canvas",
+    "插图/UTF-8.png",
+    "插图/Unicode.png",
+    "插图/Unicode和UTF-8.png",
+    "插图/ASCII编码表.png",
+    "插图/叉乘判断内外.png",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}

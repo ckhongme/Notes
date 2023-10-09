@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "livePreview": true,
+  "readableLineLength": false,
+  "foldIndent": false,
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "showFrontmatter": false
+}
