@@ -1,0 +1,1 @@
+全称 Dynamic Host Configuration Protocol，用于动态分配IP地址

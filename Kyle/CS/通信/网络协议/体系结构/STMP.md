@@ -1,0 +1,1 @@
+全称Simple Mail Transfer Protocol，用于邮件通信；
