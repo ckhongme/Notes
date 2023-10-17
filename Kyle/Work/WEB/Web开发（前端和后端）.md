@@ -3,12 +3,7 @@
 [[HTML]]
 [[CSS（样式语言）]]
 [[JavaScript]]
-
-
 ### 后端
-
-
-
 ***
 这个设计有点类似 HTML5 的 Application Cache，但在设计上规避了一些 Application Cache的不足。
 

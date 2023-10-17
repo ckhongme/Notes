@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -53,7 +53,7 @@
       "query": "path:CS/图形/图形基础  ",
       "color": {
         "a": 1,
-        "rgb": 4172683
+        "rgb": 11128945
       }
     },
     {
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 15500233
       }
+    },
+    {
+      "query": "file:图形",
+      "color": {
+        "a": 1,
+        "rgb": 5016064
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 7.86458333333333,
   "linkStrength": 1,
   "linkDistance": 185,
-  "scale": 0.32133638605035975,
-  "close": false
+  "scale": 0.4505081176757857,
+  "close": true
 }
