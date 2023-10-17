@@ -57,14 +57,14 @@
       }
     },
     {
-      "query": "path:Work/Unity  ",
+      "query": "path:Work/开发引擎/Unity  ",
       "color": {
         "a": 1,
         "rgb": 16085137
       }
     },
     {
-      "query": "path:Work/OSG  ",
+      "query": "path:Work/开发引擎/OSG  ",
       "color": {
         "a": 1,
         "rgb": 15500233
@@ -81,6 +81,6 @@
   "repelStrength": 7.86458333333333,
   "linkStrength": 1,
   "linkDistance": 185,
-  "scale": 0.2588386562182075,
-  "close": true
+  "scale": 0.32133638605035975,
+  "close": false
 }
