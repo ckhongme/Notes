@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"GLSL 150\n使用 texture 替代 texture2D 函数","id":"01375a365f27316a","x":8,"y":-717,"width":312,"height":70},
+		{"type":"text","text":"OpenGL 3.0","id":"2aa6780b01474a39","x":-240,"y":-707,"width":176,"height":50},
+		{"type":"text","text":"GLSL 130\n输入和输出用in和out声明，替代属性attribute和变化varying","id":"11921c605f506bad","x":8,"y":-840,"width":312,"height":88},
+		{"type":"text","text":"GLSL 330\n新增布局限定符，可以通过 layout(location = n) 声明顶点着色器输入和片元着色器输出的位置；","id":"e0ffc5aac4cf8f92","x":8,"y":-602,"width":312,"height":122},
+		{"type":"text","text":"OpenGL 3.2","id":"8a34b95395282c20","x":-240,"y":-566,"width":176,"height":50},
+		{"id":"33ce225fd700f348","x":-480,"y":-712,"width":110,"height":60,"type":"text","text":"2018"},
+		{"id":"d27f5bbaebea1ba7","x":-700,"y":-711,"width":166,"height":58,"type":"text","text":"Vulkan1.1"}
+	],
+	"edges":[
+		{"id":"261ad34e39c6a012","fromNode":"8a34b95395282c20","fromSide":"right","toNode":"e0ffc5aac4cf8f92","toSide":"left"},
+		{"id":"0853e7d1314abf96","fromNode":"2aa6780b01474a39","fromSide":"right","toNode":"01375a365f27316a","toSide":"left"},
+		{"id":"eec0b9e79606123a","fromNode":"11921c605f506bad","fromSide":"bottom","toNode":"01375a365f27316a","toSide":"top"},
+		{"id":"261642ab9f213c3e","fromNode":"01375a365f27316a","fromSide":"bottom","toNode":"e0ffc5aac4cf8f92","toSide":"top"},
+		{"id":"e37a96ba9ba9971c","fromNode":"33ce225fd700f348","fromSide":"left","toNode":"d27f5bbaebea1ba7","toSide":"right"}
+	]
+}

@@ -1,5 +1,5 @@
 #图形/Shader
-全称OpenGL Shading Language（OpenGL着色器语言），是一门针对GPU的编程语言；
+全称OpenGL Shading Language（[[OpenGL]]着色器语言），是一门针对GPU的编程语言；
 ## 基础结构
 ```glsl
 #version 版本号 模式          //版本声明
