@@ -2,14 +2,14 @@
 	"nodes":[
 		{"type":"group","id":"429cd368292328de","x":760,"y":120,"width":280,"height":316,"color":"#c3bbbb","label":"需要学习对应封装规则"},
 		{"type":"group","id":"772dbca3e825a56e","x":757,"y":-180,"width":286,"height":210,"color":"#c6c2cb","label":"直接调用"},
-		{"type":"file","file":"CS/图形/Shader/GLSL.md","id":"a9dbdc77df1307a2","x":449,"y":-40,"width":191,"height":50},
+		{"type":"file","file":"CS/图形/Shader/Shading Languae/GLSL.md","id":"a9dbdc77df1307a2","x":449,"y":-40,"width":191,"height":50},
 		{"type":"file","file":"Work/开发引擎/OSG/OSG图形.md","id":"555761a2f6a36be7","x":785,"y":160,"width":182,"height":50},
 		{"type":"file","file":"Work/开发引擎/Unreal/UnrealShader.md","id":"144a64a2625319a3","x":785,"y":360,"width":240,"height":50},
 		{"type":"file","file":"Work/开发引擎/Unity/Shaderlab.md","id":"5da6329dffac48a9","x":785,"y":266,"width":191,"height":50},
 		{"type":"file","file":"CS/图形/Shader/ShaderToy.md","id":"5127a4f585060d97","x":777,"y":-140,"width":246,"height":50},
 		{"type":"file","file":"Work/开发引擎/OSG/OSG图形.md","id":"5eb6b4baeb462866","x":777,"y":-40,"width":202,"height":50},
-		{"type":"file","file":"CS/图形/Shader/HLSL&Cg.md","id":"d53924a49951baee","x":449,"y":266,"width":191,"height":50},
-		{"type":"file","file":"CS/图形/Shader/着色器语言.md","id":"9abcd28e705b760c","x":140,"y":72,"width":188,"height":88}
+		{"type":"file","file":"CS/图形/Shader/Shading Languae/HLSL&Cg.md","id":"d53924a49951baee","x":449,"y":266,"width":191,"height":50},
+		{"type":"file","file":"CS/图形/Shader/Shading Languae/着色器语言.md","id":"9abcd28e705b760c","x":140,"y":72,"width":188,"height":88}
 	],
 	"edges":[
 		{"id":"d4810477b3914fdc","fromNode":"d53924a49951baee","fromSide":"right","toNode":"5da6329dffac48a9","toSide":"left"},
